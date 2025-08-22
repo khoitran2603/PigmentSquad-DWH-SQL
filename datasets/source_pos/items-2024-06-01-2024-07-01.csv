@@ -1,0 +1,2398 @@
+Date,Time,Category,Item,Qty,Product Sales,Discounts,Net Sales,Itemization Type
+30/06/2024,21:22:48,Kuromi,Kuromi - Heart,1,$40.85,$0.00,$40.85,Physical Good
+30/06/2024,21:22:48,None,Kaws,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,20:03:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,20:03:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,20:01:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,20:01:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,19:54:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,19:38:27,None,Tea - C2,1,$4.08,$0.00,$4.08,Physical Good
+30/06/2024,19:10:05,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+30/06/2024,18:11:21,Kuromi,Kuromi - Heart,1,$40.85,$0.00,$40.85,Physical Good
+30/06/2024,18:11:21,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+30/06/2024,18:10:55,None,Capybara,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,18:10:19,None,Teddy With Tote,1,$36.30,$0.00,$36.30,Physical Good
+30/06/2024,18:10:19,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,18:10:00,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,18:10:00,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,18:04:59,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,18:04:59,Bear Brick,Bear - Astro,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,17:54:31,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+30/06/2024,17:42:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,17:38:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,17:04:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,17:04:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:59:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:56:45,None,Kaws - Furry,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,16:56:45,Bear Brick,Bear - Astro,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,16:56:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:56:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:56:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:51:27,None,Capybara,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,16:51:27,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,16:46:22,None,Skull Panda - Gold Hat,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,16:46:22,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,16:43:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:43:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:38:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:33:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:32:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:31:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:31:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,16:23:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,15:53:05,None,Dino - Small,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,15:52:52,None,Capybara,1,$45.45,$0.00,$45.45,Physical Good
+30/06/2024,15:29:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,15:18:59,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+30/06/2024,15:13:34,None,Kaws,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,15:13:34,None,Rabbit on Ducky,1,$40.85,$0.00,$40.85,Physical Good
+30/06/2024,15:07:30,None,Teddy With Tote,1,$36.30,$0.00,$36.30,Physical Good
+30/06/2024,15:07:30,None,Astronaut,1,$31.77,$0.00,$31.77,Physical Good
+30/06/2024,15:01:16,None,Skull Panda - Rabbit Trainer,2,$90.91,$0.00,$90.91,Physical Good
+30/06/2024,15:00:06,None,Kaws - Furry,1,$45.45,$0.00,$45.45,Physical Good
+30/06/2024,15:00:06,None,Cinamon queen,1,$40.91,$0.00,$40.91,Physical Good
+30/06/2024,14:56:26,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+30/06/2024,14:56:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,14:56:26,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+30/06/2024,14:55:22,Beverages,Energy Drink - Red Bull,1,$4.54,$0.00,$4.54,Physical Good
+30/06/2024,14:55:22,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+30/06/2024,14:55:22,None,Tea - 0 degree,1,$4.09,$0.00,$4.09,Physical Good
+30/06/2024,14:54:39,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,14:54:39,Bear Brick,Bear Brick - Rabbit,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,14:54:06,Bear Brick,Bear Brick - Rabbit,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,14:53:39,None,Kaws,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,14:53:39,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+30/06/2024,14:52:54,None,Dino - Small,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,14:52:54,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,14:52:54,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+30/06/2024,14:51:31,Bear Brick,Bear Brick - Rabbit,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,14:50:50,None,Kaws,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,14:45:00,Melody,Melody,1,$36.30,$0.00,$36.30,Physical Good
+30/06/2024,14:45:00,None,Astronaut,1,$31.77,$0.00,$31.77,Physical Good
+30/06/2024,14:38:47,None,Dino - Small,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,14:36:38,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,14:36:38,None,Dino - Disco,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,14:36:38,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,14:34:09,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+30/06/2024,14:32:55,None,Custom Amount,1,$81.23,$0.00,$81.23,
+30/06/2024,14:28:08,Beverages,Soft Drink - Can,1,$2.73,$0.00,$2.73,Physical Good
+30/06/2024,14:27:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,14:23:59,None,Repeat painting,1,$9.09,$0.00,$9.09,Service
+30/06/2024,14:18:56,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+30/06/2024,14:14:04,None,Kaws,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,14:14:04,Skull Panda,Skull Panda 5,1,$40.85,$0.00,$40.85,Physical Good
+30/06/2024,14:04:12,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,14:03:18,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,14:02:36,None,Astronaut,1,$31.77,$0.00,$31.77,Physical Good
+30/06/2024,13:45:33,None,Pokemon - Blastoise,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,13:45:33,Melody,Melody,1,$36.30,$0.00,$36.30,Physical Good
+30/06/2024,13:45:33,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,13:43:18,None,Naruto,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,13:43:18,Melody,Melody,1,$36.30,$0.00,$36.30,Physical Good
+30/06/2024,13:43:18,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,13:38:31,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+30/06/2024,13:26:00,Bear Brick,Bear Brick - Rabbit,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,13:25:37,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,13:23:17,None,Baby Dragon,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,13:18:35,Bear Brick,Bear Brick - Rabbit,2,$81.69,$0.00,$81.69,Physical Good
+30/06/2024,13:15:39,None,Cat on Duck,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,13:15:25,None,Dino - Disco,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,13:14:59,None,Custom Amount,1,$22.73,$0.00,$22.73,
+30/06/2024,13:13:25,None,Imperfect,1,$22.73,$0.00,$22.73,Physical Good
+30/06/2024,13:09:29,None,Astronaut,1,$31.77,$0.00,$31.77,Physical Good
+30/06/2024,13:09:29,None,Cinamon queen,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,13:09:29,None,Dino - Small,1,$36.30,$0.00,$36.30,Physical Good
+30/06/2024,13:09:29,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+30/06/2024,13:09:29,Beverages,Drink - Bird Nest,1,$4.09,$0.00,$4.09,Physical Good
+30/06/2024,12:44:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,12:42:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,12:35:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,12:24:47,None,Bubu lala,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,12:24:47,None,Dino - Small,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,12:24:12,None,Teddy With Tote,1,$36.30,$0.00,$36.30,Physical Good
+30/06/2024,12:24:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,12:23:24,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+30/06/2024,12:23:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+30/06/2024,11:51:26,Kuromi,Kuromi - Heart,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,11:50:16,Melody,Melody,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,11:50:02,None,Capybara,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,11:16:00,None,Dino - Small,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,11:15:44,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,11:10:43,Bear Brick,Bear - Astro,1,$45.38,$0.00,$45.38,Physical Good
+30/06/2024,11:10:43,Bear Brick,Bear Brick - OG,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,11:10:43,None,Rabbit - Ice Cream,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,11:08:23,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,11:07:57,Kuromi,Kuromi - Heart,1,$40.91,$0.00,$40.91,Physical Good
+30/06/2024,11:06:57,Melody,Melody,1,$36.31,$0.00,$36.31,Physical Good
+30/06/2024,11:06:31,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+30/06/2024,11:06:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,23:00:00,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,23:00:00,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+29/06/2024,22:41:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,22:41:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,22:01:00,None,Astronaut,1,$31.77,$0.00,$31.77,Physical Good
+29/06/2024,21:58:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,21:58:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,21:47:43,Beverages,Drink - Banana Milk,2,$6.81,$0.00,$6.81,Physical Good
+29/06/2024,21:37:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,21:37:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,21:27:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,21:04:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,20:46:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,20:46:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,20:32:19,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+29/06/2024,20:32:03,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+29/06/2024,20:17:39,None,Cinamon queen,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,20:15:29,None,Capybara,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,19:43:09,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,19:42:52,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,19:28:56,None,Astronaut,1,$31.77,$0.00,$31.77,Physical Good
+29/06/2024,19:28:56,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,19:28:56,Beverages,Soft Drink - Can,2,$5.44,$0.00,$5.44,Physical Good
+29/06/2024,19:20:41,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,19:10:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,19:10:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,19:07:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,18:52:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,18:35:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,18:35:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,18:35:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,18:29:55,Melody,Melody,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,18:29:26,Couple,Couple - Cat,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,18:15:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,18:15:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,17:54:50,Beverages,Drink - Banana Milk,2,$6.81,$0.00,$6.81,Physical Good
+29/06/2024,17:53:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,17:27:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,17:23:06,None,Capybara,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,17:23:06,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,17:14:44,None,Pokemon - Blastoise,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,17:14:44,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,17:01:32,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,17:01:32,None,Bowtied Melody,1,$40.85,$0.00,$40.85,Physical Good
+29/06/2024,17:00:51,Melody,Melody,1,$36.36,$0.00,$36.36,Physical Good
+29/06/2024,17:00:33,None,Astronaut,1,$31.77,$0.00,$31.77,Physical Good
+29/06/2024,17:00:04,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,16:56:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,16:41:29,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+29/06/2024,16:37:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,16:25:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,16:12:51,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+29/06/2024,16:12:51,None,Repeat painting,1,$9.07,$0.00,$9.07,Service
+29/06/2024,16:02:50,None,Ltd Ed - Hello Kitty Baby,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,16:02:26,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,16:01:40,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,16:00:12,None,Pokemon - Blastoise,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,15:58:20,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,15:55:56,None,Capybara,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,15:52:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,15:43:28,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+29/06/2024,15:40:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,15:39:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,15:37:31,Beverages,Energy Drink - Red Bull,1,$4.55,$0.00,$4.55,Physical Good
+29/06/2024,15:34:14,None,Capybara,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,15:34:14,None,Rabbit on Ducky,1,$40.85,$0.00,$40.85,Physical Good
+29/06/2024,15:31:08,None,Drink - Milkis,1,$2.73,$0.00,$2.73,Physical Good
+29/06/2024,15:29:43,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+29/06/2024,15:28:29,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,15:26:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,15:26:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,15:16:54,Bear Brick,Bear - Astro,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,15:15:56,None,Damaged Item,1,$22.69,$0.00,$22.69,Physical Good
+29/06/2024,15:13:57,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,15:03:35,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,15:03:35,Kuromi,Kuromi - Heart,1,$40.85,$0.00,$40.85,Physical Good
+29/06/2024,14:56:20,Bear Brick,Bear Brick - Heart,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,14:44:16,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,14:43:33,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,14:38:45,None,doreamon batman,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,14:38:45,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,14:27:25,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,14:24:32,None,Naruto,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,14:24:32,Bear Brick,Bear Brick - Rainbow,1,$40.85,$0.00,$40.85,Physical Good
+29/06/2024,14:23:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,14:20:53,Bear Brick,Bear Brick - Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,14:20:53,None,Dino - Disco,1,$40.85,$0.00,$40.85,Physical Good
+29/06/2024,14:14:56,Skull Panda,Skull Panda 5,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,14:14:22,None,Capybara,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,14:13:51,None,Cat on Duck,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,14:12:40,Melody,Melody,1,$36.30,$0.00,$36.30,Physical Good
+29/06/2024,14:12:40,None,Astronaut,1,$31.77,$0.00,$31.77,Physical Good
+29/06/2024,14:08:35,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,14:07:49,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,14:07:49,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,14:07:06,None,Kirby,1,$36.36,$0.00,$36.36,Physical Good
+29/06/2024,14:06:18,None,Dino - Disco,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,14:05:13,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,13:58:11,None,Dino - Disco,1,$40.91,$0.00,$40.91,Physical Good
+29/06/2024,13:54:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,13:53:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,13:49:23,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,13:48:55,None,Teddy With Tote,1,$36.36,$0.00,$36.36,Physical Good
+29/06/2024,13:08:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,12:56:51,None,Kaws,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,12:56:51,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,12:56:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,12:56:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,12:36:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,12:36:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+29/06/2024,12:29:48,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+29/06/2024,12:28:00,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+29/06/2024,12:27:22,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+29/06/2024,12:19:29,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,12:18:42,Couple,Couple - Cat,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,12:18:21,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,12:16:53,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+29/06/2024,12:11:04,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,12:10:46,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,11:30:08,None,Captain US Doremon,1,$45.38,$0.00,$45.38,Physical Good
+29/06/2024,11:29:22,None,Kirby,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,11:29:22,Couple,Couple - Bear,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,11:29:22,Couple,Couple - Cat,1,$49.92,$0.00,$49.92,Physical Good
+29/06/2024,11:26:24,None,Rabbit - Ice Cream,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,11:24:11,None,Puppy - Glasses,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,11:24:11,None,Cinamon queen,1,$40.84,$0.00,$40.84,Physical Good
+29/06/2024,11:19:42,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,11:19:12,None,Dino - Small,1,$36.31,$0.00,$36.31,Physical Good
+29/06/2024,11:12:33,None,pokemon - icecream,2,$72.61,$0.00,$72.61,Physical Good
+28/06/2024,23:14:12,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+28/06/2024,23:06:39,None,Take-home kit,2,$5.45,$0.00,$5.45,Physical Good
+28/06/2024,22:59:54,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+28/06/2024,21:44:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,21:43:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,21:41:55,Melody,Melody,1,$36.31,$0.00,$36.31,Physical Good
+28/06/2024,21:41:55,None,Dino - Disco,1,$40.84,$0.00,$40.84,Physical Good
+28/06/2024,21:36:09,None,Fox Nine Tailed - Large,1,$49.92,$0.00,$49.92,Physical Good
+28/06/2024,21:36:09,Skull Panda,Skull Panda 5,1,$40.84,$0.00,$40.84,Physical Good
+28/06/2024,21:34:43,None,Kirby,1,$36.31,$0.00,$36.31,Physical Good
+28/06/2024,21:34:43,None,Rabbit on Ducky,1,$40.84,$0.00,$40.84,Physical Good
+28/06/2024,21:30:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,21:27:36,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+28/06/2024,20:53:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,20:53:43,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+28/06/2024,20:32:04,None,Extra - Colour Tube,1,$1.81,$0.00,$1.81,Physical Good
+28/06/2024,20:32:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,20:25:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,20:24:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,20:23:48,None,Astronaut,1,$31.77,$0.00,$31.77,Physical Good
+28/06/2024,20:23:48,None,Rabbit on Ducky,1,$40.84,$0.00,$40.84,Physical Good
+28/06/2024,20:23:48,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+28/06/2024,20:10:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,20:10:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,20:10:04,None,Capybara,1,$45.38,$0.00,$45.38,Physical Good
+28/06/2024,20:10:04,None,Dino - Disco,1,$40.85,$0.00,$40.85,Physical Good
+28/06/2024,19:53:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,19:35:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,19:28:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,19:25:17,Skull Panda,Skull Panda 5,1,$40.85,$0.00,$40.85,Physical Good
+28/06/2024,19:25:17,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+28/06/2024,19:24:44,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+28/06/2024,19:24:44,None,Dino - Small,1,$36.30,$0.00,$36.30,Physical Good
+28/06/2024,19:24:44,Beverages,Soft Drink - Can,2,$5.45,$0.00,$5.45,Physical Good
+28/06/2024,18:36:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,18:36:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,18:26:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,18:26:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,18:08:39,None,Ducky - Star,2,$81.69,$0.00,$81.69,Physical Good
+28/06/2024,18:03:43,None,Kirby,1,$36.31,$0.00,$36.31,Physical Good
+28/06/2024,18:03:21,None,Pokemon - Blastoise,1,$45.38,$0.00,$45.38,Physical Good
+28/06/2024,17:15:18,None,Puppy - Glasses,1,$36.31,$0.00,$36.31,Physical Good
+28/06/2024,17:15:18,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+28/06/2024,16:59:45,None,Kirby,1,$36.31,$0.00,$36.31,Physical Good
+28/06/2024,16:35:49,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+28/06/2024,16:35:49,Piggy,Piggy Birthday,1,$36.31,$0.00,$36.31,Physical Good
+28/06/2024,16:11:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,15:57:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,15:57:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,15:53:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,15:34:40,None,Kaws,1,$46.07,-$7.50,$38.57,Physical Good
+28/06/2024,15:32:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,15:32:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,15:32:29,None,Kaws,1,$45.38,$0.00,$45.38,Physical Good
+28/06/2024,15:32:29,Skull Panda,Skull Panda 6,1,$40.85,$0.00,$40.85,Physical Good
+28/06/2024,15:24:38,None,Kaws - Furry,1,$45.38,$0.00,$45.38,Physical Good
+28/06/2024,15:18:41,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,15:15:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,15:15:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,14:56:51,None,Kirby,1,$36.91,-$6.00,$30.91,Physical Good
+28/06/2024,14:55:56,Skull Panda,Skull Panda 3,1,$41.47,-$6.75,$34.72,Physical Good
+28/06/2024,14:54:50,Bear Brick,Bear Brick - Heart,1,$41.47,-$6.75,$34.72,Physical Good
+28/06/2024,14:54:50,None,doreamon batman,1,$46.07,-$7.50,$38.57,Physical Good
+28/06/2024,14:54:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,14:54:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,14:51:02,Skull Panda,Skull Panda 2,1,$41.47,-$6.75,$34.72,Physical Good
+28/06/2024,14:42:18,None,Captain US Doremon,1,$46.07,-$7.50,$38.57,Physical Good
+28/06/2024,14:36:40,None,Puppy - Glasses,1,$36.86,-$6.00,$30.86,Physical Good
+28/06/2024,14:36:20,None,Doremon - Headphone,1,$46.07,-$7.50,$38.57,Physical Good
+28/06/2024,14:15:26,None,Cat on Duck,1,$41.47,-$6.75,$34.72,Physical Good
+28/06/2024,14:14:53,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+28/06/2024,14:13:37,None,Rabbit - Ice Cream,1,$36.91,-$6.00,$30.91,Physical Good
+28/06/2024,14:12:31,None,Fox Nine Tailed - Large,1,$50.68,-$8.25,$42.43,Physical Good
+28/06/2024,13:50:13,None,doreamon batman,1,$46.07,-$7.50,$38.57,Physical Good
+28/06/2024,13:50:13,None,Kirby,1,$36.86,-$6.00,$30.86,Physical Good
+28/06/2024,13:42:46,None,Cinamon queen,1,$41.47,-$6.75,$34.72,Physical Good
+28/06/2024,13:42:17,None,Pokemon - Blastoise,1,$46.07,-$7.50,$38.57,Physical Good
+28/06/2024,13:41:45,Skull Panda,Skull Panda 5,1,$41.47,-$6.75,$34.72,Physical Good
+28/06/2024,13:41:09,Skull Panda,Skull Panda 3,1,$41.47,-$6.75,$34.72,Physical Good
+28/06/2024,13:40:08,None,Imperfect,1,$23.04,-$3.75,$19.29,Physical Good
+28/06/2024,13:30:16,None,Cinamon queen,1,$41.47,-$6.75,$34.72,Physical Good
+28/06/2024,13:29:58,None,Kirby,1,$36.86,-$6.00,$30.86,Physical Good
+28/06/2024,13:28:14,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+28/06/2024,13:27:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+28/06/2024,13:18:24,None,Dino - Disco,1,$41.47,-$6.75,$34.72,Physical Good
+28/06/2024,13:18:24,None,Capybara,1,$46.07,-$7.50,$38.57,Physical Good
+28/06/2024,13:03:18,None,Dino - Disco,1,$41.52,-$6.75,$34.77,Physical Good
+28/06/2024,12:20:27,Cinamonroll,Cinamonroll,1,$36.86,-$6.00,$30.86,Physical Good
+28/06/2024,12:20:01,None,Rabbit - Ice Cream,1,$36.91,-$6.00,$30.91,Physical Good
+28/06/2024,12:18:42,Bear Brick,Bear - Astro,1,$46.07,-$7.50,$38.57,Physical Good
+28/06/2024,12:18:08,None,Puppy - Glasses,1,$36.86,-$6.00,$30.86,Physical Good
+28/06/2024,12:06:34,None,Dino - Small,1,$36.86,-$6.00,$30.86,Physical Good
+28/06/2024,12:06:13,None,Cat on Duck,1,$41.47,-$6.75,$34.72,Physical Good
+28/06/2024,12:05:41,None,Capybara,1,$46.07,-$7.50,$38.57,Physical Good
+28/06/2024,12:05:14,None,Fox Nine Tailed - Large,1,$50.68,-$8.25,$42.43,Physical Good
+28/06/2024,11:43:53,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+28/06/2024,11:43:53,None,Imperfect,1,$23.04,-$3.75,$19.29,Physical Good
+27/06/2024,22:16:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,22:00:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,22:00:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,21:28:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,20:06:52,None,Rabbit on Ducky,1,$40.84,$0.00,$40.84,Physical Good
+27/06/2024,20:06:24,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+27/06/2024,19:31:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,19:31:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,19:19:50,None,Baby Dragon,1,$36.31,$0.00,$36.31,Physical Good
+27/06/2024,19:19:33,None,Baby Dragon,1,$36.31,$0.00,$36.31,Physical Good
+27/06/2024,19:15:45,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+27/06/2024,19:15:45,Kuromi,Kuromi - Bowtie,1,$40.85,$0.00,$40.85,Physical Good
+27/06/2024,18:43:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,18:37:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,18:37:59,None,Kirby,1,$36.30,$0.00,$36.30,Physical Good
+27/06/2024,18:23:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,17:39:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,17:39:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,17:37:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,17:11:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,16:55:33,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+27/06/2024,16:31:14,Bear Brick,Bear - Astro,1,$45.38,$0.00,$45.38,Physical Good
+27/06/2024,16:25:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,16:24:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,16:24:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,16:23:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,16:07:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,16:00:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,15:50:13,None,Capybara,1,$46.07,-$7.50,$38.57,Physical Good
+27/06/2024,15:38:33,None,Rabbit - Ice Cream,1,$36.86,-$6.00,$30.86,Physical Good
+27/06/2024,15:38:06,None,Sanrio - Pompompurine,1,$41.47,-$6.75,$34.72,Physical Good
+27/06/2024,15:33:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,15:16:27,None,Astronaut,1,$32.25,-$5.25,$27.00,Physical Good
+27/06/2024,15:16:27,None,Teddy With Tote,1,$36.86,-$6.00,$30.86,Physical Good
+27/06/2024,14:48:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,14:30:08,None,Astronaut,1,$32.25,-$5.25,$27.00,Physical Good
+27/06/2024,14:26:19,None,Dino - Small,1,$36.86,-$6.00,$30.86,Physical Good
+27/06/2024,14:26:02,None,Ducky - Star,1,$41.47,-$6.75,$34.72,Physical Good
+27/06/2024,14:23:31,None,Astronaut,1,$32.25,-$5.25,$27.00,Physical Good
+27/06/2024,14:21:31,None,Astronaut,1,$32.25,-$5.25,$27.00,Physical Good
+27/06/2024,14:17:55,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+27/06/2024,14:15:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,14:05:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,14:03:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+27/06/2024,14:01:11,None,Custom Amount,1,$46.07,-$7.50,$38.57,
+27/06/2024,14:00:31,None,Ducky - Star,1,$41.47,-$6.75,$34.72,Physical Good
+27/06/2024,13:59:49,None,Bowtied Melody,1,$41.47,-$6.75,$34.72,Physical Good
+27/06/2024,13:47:24,None,Rabbit - Ice Cream,1,$36.86,-$6.00,$30.86,Physical Good
+27/06/2024,13:47:24,None,Ducky - Star,1,$41.47,-$6.75,$34.72,Physical Good
+27/06/2024,13:47:24,None,Captain US Doremon,1,$46.07,-$7.50,$38.57,Physical Good
+27/06/2024,13:18:33,None,Rabbit - Ice Cream,1,$36.86,-$6.00,$30.86,Physical Good
+27/06/2024,13:18:33,None,Bowtied Melody,1,$41.47,-$6.75,$34.72,Physical Good
+27/06/2024,13:05:31,Skull Panda,Skull Panda 5,1,$41.47,-$6.75,$34.72,Physical Good
+27/06/2024,12:51:04,None,Teddy With Tote,1,$36.86,-$6.00,$30.86,Physical Good
+27/06/2024,12:50:34,Skull Panda,Skull Panda 6,1,$42.17,-$14.40,$27.77,Physical Good
+27/06/2024,12:50:05,None,Imperfect,1,$23.04,-$3.75,$19.29,Physical Good
+27/06/2024,12:49:38,None,Rabbit - Ice Cream,1,$36.86,-$6.00,$30.86,Physical Good
+27/06/2024,12:38:04,None,Sanrio - Pompompurine,1,$41.52,-$6.75,$34.77,Physical Good
+27/06/2024,12:27:05,Skull Panda,Skull Panda 3,2,$82.93,-$13.50,$69.43,Physical Good
+27/06/2024,12:22:47,None,Ducky - Star,1,$41.47,-$6.75,$34.72,Physical Good
+27/06/2024,12:13:57,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+27/06/2024,12:13:41,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+27/06/2024,12:13:23,Skull Panda,Skull Panda 3,1,$41.47,-$6.75,$34.72,Physical Good
+27/06/2024,12:12:39,None,Custom Amount,1,$41.47,-$6.75,$34.72,
+27/06/2024,12:05:31,None,Baby Dragon,1,$41.47,-$6.75,$34.72,Physical Good
+27/06/2024,12:05:01,None,Baby Dragon,1,$41.47,-$6.75,$34.72,Physical Good
+26/06/2024,20:42:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+26/06/2024,20:42:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+26/06/2024,19:29:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+26/06/2024,19:20:37,None,Imperfect,1,$23.15,-$5.00,$18.15,Physical Good
+26/06/2024,19:20:37,None,Captain US Doremon,1,$46.31,-$10.00,$36.31,Physical Good
+26/06/2024,18:16:26,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+26/06/2024,18:06:49,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+26/06/2024,18:02:29,Skull Panda,Skull Panda 6,1,$41.73,-$9.00,$32.73,Physical Good
+26/06/2024,18:02:29,None,Skull Panda - Rabbit Trainer,1,$46.36,-$10.00,$36.36,Physical Good
+26/06/2024,17:50:57,Beverages,Soy Milk,1,$4.31,$0.00,$4.31,Physical Good
+26/06/2024,17:29:56,Skull Panda,Skull Panda 2,1,$41.67,-$9.00,$32.67,Physical Good
+26/06/2024,17:20:54,Skull Panda,Skull Panda 1,2,$83.35,-$18.00,$65.35,Physical Good
+26/06/2024,17:07:21,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+26/06/2024,16:53:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+26/06/2024,16:42:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+26/06/2024,16:39:53,Skull Panda,Skull Panda 1,1,$41.67,-$9.00,$32.67,Physical Good
+26/06/2024,16:39:28,Skull Panda,Skull Panda 1,1,$41.67,-$9.00,$32.67,Physical Good
+26/06/2024,16:37:37,None,Skull Panda - Rabbit Trainer,1,$46.31,-$10.00,$36.31,Physical Good
+26/06/2024,16:27:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+26/06/2024,15:33:59,Skull Panda,Skull Panda 2,1,$42.17,-$14.40,$27.77,Physical Good
+26/06/2024,15:33:59,None,Captain US Doremon,1,$46.86,-$16.00,$30.86,Physical Good
+26/06/2024,15:21:49,None,Captain US Doremon,1,$46.86,-$16.00,$30.86,Physical Good
+26/06/2024,15:21:49,None,Skull Panda - Rabbit Trainer,1,$46.86,-$16.00,$30.86,Physical Good
+26/06/2024,14:57:48,None,Skull Panda - Rabbit Trainer,2,$93.72,-$32.00,$61.72,Physical Good
+26/06/2024,14:54:15,None,Skull Panda - Rabbit Trainer,1,$46.86,-$16.00,$30.86,Physical Good
+26/06/2024,14:53:51,None,Skull Panda - Rabbit Trainer,1,$46.86,-$16.00,$30.86,Physical Good
+26/06/2024,14:32:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+26/06/2024,13:58:13,None,Captain US Doremon,1,$46.86,-$16.00,$30.86,Physical Good
+26/06/2024,13:45:58,None,Captain US Doremon,1,$46.86,-$16.00,$30.86,Physical Good
+26/06/2024,13:45:34,None,Skull Panda - Rabbit Trainer,1,$46.86,-$16.00,$30.86,Physical Good
+26/06/2024,13:43:33,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+26/06/2024,13:01:13,None,Captain US Doremon,1,$46.86,-$16.00,$30.86,Physical Good
+26/06/2024,12:25:49,None,Captain US Doremon,1,$46.86,-$16.00,$30.86,Physical Good
+26/06/2024,12:25:49,None,Gloss Varnish,1,$4.69,-$1.60,$3.09,Service
+26/06/2024,12:18:27,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+26/06/2024,12:15:14,None,Captain US Doremon,1,$46.91,-$16.00,$30.91,Physical Good
+25/06/2024,20:43:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,20:31:13,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+25/06/2024,20:30:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,19:49:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,19:29:35,None,Skull Panda - Rabbit Trainer,1,$46.30,-$10.00,$36.30,Physical Good
+25/06/2024,19:29:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,19:21:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,19:11:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,19:11:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,18:59:22,None,Mini Picture,1,$25.00,-$5.40,$19.60,Physical Good
+25/06/2024,18:59:05,None,Mini Picture,1,$25.00,-$5.40,$19.60,Physical Good
+25/06/2024,18:51:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,18:51:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,18:48:49,Skull Panda,Skull Panda 1,1,$41.67,-$9.00,$32.67,Physical Good
+25/06/2024,18:48:49,None,Mini Picture,1,$25.01,-$5.40,$19.61,Physical Good
+25/06/2024,18:34:00,Skull Panda,Skull Panda 6,1,$41.67,-$9.00,$32.67,Physical Good
+25/06/2024,18:03:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,18:03:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,17:58:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,17:30:20,Skull Panda,Skull Panda 1,1,$41.67,-$9.00,$32.67,Physical Good
+25/06/2024,17:30:03,Skull Panda,Skull Panda 1,1,$41.67,-$9.00,$32.67,Physical Good
+25/06/2024,17:29:32,None,Captain US Doremon,1,$46.31,-$10.00,$36.31,Physical Good
+25/06/2024,17:29:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,17:26:54,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+25/06/2024,17:23:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,17:22:35,Skull Panda,Skull Panda 6,1,$41.67,-$9.00,$32.67,Physical Good
+25/06/2024,17:22:05,None,Skull Panda - Gold Hat,1,$46.31,-$10.00,$36.31,Physical Good
+25/06/2024,17:13:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,17:13:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,17:11:04,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+25/06/2024,16:16:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,16:16:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,16:04:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,16:04:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,15:48:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,15:48:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,15:00:10,None,Skull Panda - Rabbit Trainer,1,$46.30,-$10.00,$36.30,Physical Good
+25/06/2024,15:00:10,None,Rain Baby,1,$55.57,-$12.00,$43.57,Physical Good
+25/06/2024,14:53:04,Skull Panda,Skull Panda 2,1,$41.67,-$9.00,$32.67,Physical Good
+25/06/2024,14:53:04,Skull Panda,Skull Panda 6,1,$41.68,-$9.00,$32.68,Physical Good
+25/06/2024,14:52:13,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+25/06/2024,14:52:03,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+25/06/2024,14:46:47,Skull Panda,Skull Panda 6,1,$42.17,-$14.40,$27.77,Physical Good
+25/06/2024,14:46:20,None,Hello kitty,1,$37.49,-$12.80,$24.69,Physical Good
+25/06/2024,14:35:43,Beverages,Soy Milk,1,$4.31,$0.00,$4.31,Physical Good
+25/06/2024,14:18:55,None,Captain US Doremon,2,$93.72,-$32.00,$61.72,Physical Good
+25/06/2024,14:18:21,None,Pokemon - Blastoise,1,$46.86,-$16.00,$30.86,Physical Good
+25/06/2024,14:17:53,None,Skull Panda - Rabbit Trainer,1,$46.86,-$16.00,$30.86,Physical Good
+25/06/2024,13:56:00,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,13:42:18,None,Skullpanda - Raining Day,1,$56.23,-$19.20,$37.03,Physical Good
+25/06/2024,13:42:18,None,Rain Baby,1,$56.23,-$19.20,$37.03,Physical Good
+25/06/2024,13:42:18,Beverages,Soft Drink - Can,2,$5.45,$0.00,$5.45,Physical Good
+25/06/2024,13:00:45,None,Naruto,1,$42.18,-$14.40,$27.78,Physical Good
+25/06/2024,13:00:45,None,Skullpanda - Raining Day,1,$56.23,-$19.20,$37.03,Physical Good
+25/06/2024,12:56:04,None,Skull Panda - Gold Hat,1,$46.86,-$16.00,$30.86,Physical Good
+25/06/2024,12:56:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,12:55:30,None,Skull Panda - Rabbit Trainer,1,$46.86,-$16.00,$30.86,Physical Good
+25/06/2024,12:55:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,12:52:21,None,Drink - Milkis,2,$5.45,$0.00,$5.45,Physical Good
+25/06/2024,12:51:37,Skull Panda,Skull Panda 6,1,$42.22,-$14.40,$27.82,Physical Good
+25/06/2024,12:51:37,None,Captain US Doremon,1,$46.91,-$16.00,$30.91,Physical Good
+25/06/2024,12:51:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+25/06/2024,12:51:37,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+25/06/2024,12:46:16,None,Captain US Doremon,1,$46.91,-$16.00,$30.91,Physical Good
+25/06/2024,12:46:16,None,Marvel,1,$46.91,-$16.00,$30.91,Physical Good
+25/06/2024,12:31:53,None,Captain US Doremon,1,$46.86,-$16.00,$30.86,Physical Good
+25/06/2024,12:19:01,None,Skull Panda - Rabbit Trainer,1,$46.86,-$16.00,$30.86,Physical Good
+25/06/2024,12:14:06,None,Skull Panda - Gold Hat,2,$93.72,-$32.00,$61.72,Physical Good
+25/06/2024,12:13:07,Skull Panda,Skull Panda 6,1,$42.17,-$14.40,$27.77,Physical Good
+25/06/2024,12:11:22,None,Skull Panda - Rabbit Trainer,1,$46.86,-$16.00,$30.86,Physical Good
+25/06/2024,12:10:09,Skull Panda,Skull Panda 2,2,$84.35,-$28.80,$55.55,Physical Good
+24/06/2024,21:17:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+24/06/2024,21:17:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+24/06/2024,20:21:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+24/06/2024,20:21:34,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+24/06/2024,19:14:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+24/06/2024,18:45:15,None,Kuromi - With Hat,-1,-$40.85,$0.00,-$40.85,Physical Good
+24/06/2024,18:17:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+24/06/2024,18:17:52,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+24/06/2024,17:32:16,None,Teddy With Tote,2,$72.73,$0.00,$72.73,Physical Good
+24/06/2024,17:25:01,None,Captain US Doremon,1,$45.38,$0.00,$45.38,Physical Good
+24/06/2024,17:25:01,None,Naruto,1,$40.85,$0.00,$40.85,Physical Good
+24/06/2024,16:38:56,None,Skull Panda - Gold Hat,1,$45.38,$0.00,$45.38,Physical Good
+24/06/2024,16:34:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+24/06/2024,16:34:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+24/06/2024,16:31:45,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+24/06/2024,16:27:09,None,Captain US Doremon,1,$45.38,$0.00,$45.38,Physical Good
+24/06/2024,16:27:09,Kuromi,Kuromi - With Hat,1,$40.85,$0.00,$40.85,Physical Good
+24/06/2024,15:34:56,None,Hello kitty,1,$36.36,$0.00,$36.36,Physical Good
+24/06/2024,15:34:34,None,Skullpanda - Raining Day,1,$54.46,$0.00,$54.46,Physical Good
+24/06/2024,14:56:41,None,Pokemon - Blastoise,1,$46.08,-$7.50,$38.58,Physical Good
+24/06/2024,14:56:41,None,Skull Panda - Gold Hat,1,$46.07,-$7.50,$38.57,Physical Good
+24/06/2024,14:47:31,None,Drink - Milkis,1,$2.72,$0.00,$2.72,Physical Good
+24/06/2024,14:35:00,None,Captain US Doremon,1,$46.14,-$7.50,$38.64,Physical Good
+24/06/2024,14:24:52,None,Angie’s booking on Sat 6 July 4:45pm,1,$250.00,$0.00,$250.00,
+24/06/2024,14:22:24,Kuromi,Kuromi - With Hat,2,$82.93,-$13.50,$69.43,Physical Good
+24/06/2024,13:56:42,None,Skull Panda - Rabbit Trainer,1,$46.08,-$7.50,$38.58,Physical Good
+24/06/2024,13:56:42,None,Pokemon - Blastoise,1,$46.07,-$7.50,$38.57,Physical Good
+24/06/2024,13:39:51,Kuromi,Kuromi - With Hat,1,$41.47,-$6.75,$34.72,Physical Good
+24/06/2024,13:39:33,Skull Panda,Skull Panda 6,1,$41.47,-$6.75,$34.72,Physical Good
+24/06/2024,13:38:24,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+24/06/2024,12:17:48,None,Skull Panda - Gold Hat,1,$46.07,-$7.50,$38.57,Physical Good
+24/06/2024,12:16:22,None,Captain US Doremon,1,$46.07,-$7.50,$38.57,Physical Good
+23/06/2024,23:07:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,22:53:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,21:46:05,None,Skullpanda - Raining Day,1,$54.46,$0.00,$54.46,Physical Good
+23/06/2024,21:13:47,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+23/06/2024,20:14:26,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+23/06/2024,20:14:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,20:13:57,None,Skull Panda - Gold Hat,1,$45.38,$0.00,$45.38,Physical Good
+23/06/2024,20:13:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,19:38:05,None,Skull Panda - Gold Hat,1,$45.38,$0.00,$45.38,Physical Good
+23/06/2024,19:37:42,Skull Panda,Skull Panda 6,1,$40.85,$0.00,$40.85,Physical Good
+23/06/2024,19:37:42,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+23/06/2024,19:18:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,18:58:55,Kuromi,Kuromi - Heart,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,18:58:55,None,Hello kitty,1,$36.30,$0.00,$36.30,Physical Good
+23/06/2024,18:58:55,Beverages,Soft Drink - Can,2,$5.45,$0.00,$5.45,Physical Good
+23/06/2024,18:51:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,17:40:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,17:37:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,17:29:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,17:17:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,17:16:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,17:16:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,17:15:48,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,17:15:23,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+23/06/2024,16:33:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,16:33:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,16:22:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,16:22:36,None,Tea - C2,2,$8.17,$0.00,$8.17,Physical Good
+23/06/2024,16:16:43,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+23/06/2024,16:10:30,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,15:56:21,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,15:51:38,None,Skull Panda - Rabbit Trainer,1,$45.39,$0.00,$45.39,Physical Good
+23/06/2024,15:51:38,None,Tea - C2,1,$4.08,$0.00,$4.08,Physical Good
+23/06/2024,15:51:00,Skull Panda,Skull Panda 6,1,$40.85,$0.00,$40.85,Physical Good
+23/06/2024,15:51:00,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+23/06/2024,15:50:16,None,Skull Panda - Rabbit Trainer,1,$45.39,$0.00,$45.39,Physical Good
+23/06/2024,15:50:16,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+23/06/2024,15:36:39,None,doreamon batman,1,$45.38,$0.00,$45.38,Physical Good
+23/06/2024,15:36:08,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,15:35:33,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,15:35:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,15:35:02,None,Skullpanda - Raining Day,1,$54.46,$0.00,$54.46,Physical Good
+23/06/2024,15:26:03,Kuromi,Kuromi - Dragon,1,$40.91,$0.00,$40.91,Physical Good
+23/06/2024,15:25:33,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,15:24:38,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+23/06/2024,15:23:57,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,15:23:28,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+23/06/2024,15:21:27,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+23/06/2024,15:19:35,Beverages,Soy Milk,1,$4.31,$0.00,$4.31,Physical Good
+23/06/2024,15:17:19,None,doreamon batman,1,$45.38,$0.00,$45.38,Physical Good
+23/06/2024,15:17:19,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+23/06/2024,15:11:17,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+23/06/2024,15:01:46,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+23/06/2024,14:57:12,None,Hello kitty,2,$72.61,$0.00,$72.61,Physical Good
+23/06/2024,14:56:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,14:48:50,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+23/06/2024,14:47:43,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+23/06/2024,14:41:30,None,Imperfect,1,$22.73,$0.00,$22.73,Physical Good
+23/06/2024,14:40:47,None,Skull Panda - Rabbit Trainer,1,$45.45,$0.00,$45.45,Physical Good
+23/06/2024,14:13:53,None,Pokemon - Blastoise,1,$45.38,$0.00,$45.38,Physical Good
+23/06/2024,14:13:02,Skull Panda,Skull Panda 6,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,14:13:02,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+23/06/2024,14:06:14,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,14:06:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,14:05:20,None,Custom Amount,1,$18.18,$0.00,$18.18,
+23/06/2024,14:03:05,None,Hello kitty,1,$36.36,$0.00,$36.36,Physical Good
+23/06/2024,13:50:18,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+23/06/2024,13:50:18,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+23/06/2024,13:48:52,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+23/06/2024,13:48:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,13:47:45,Melody,Melody,1,$36.36,$0.00,$36.36,Physical Good
+23/06/2024,13:46:45,None,Imperfect,1,$22.73,$0.00,$22.73,Physical Good
+23/06/2024,13:29:24,Beverages,Soft Drink - Can,3,$8.17,$0.00,$8.17,Physical Good
+23/06/2024,13:29:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+23/06/2024,13:25:59,Couple,Couple - Cat,1,$49.92,$0.00,$49.92,Physical Good
+23/06/2024,13:25:59,None,Tea - C2,1,$4.09,$0.00,$4.09,Physical Good
+23/06/2024,13:25:59,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+23/06/2024,13:21:41,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,12:27:56,Kuromi,Kuromi - Clown,1,$40.91,$0.00,$40.91,Physical Good
+23/06/2024,11:55:59,None,Naruto,1,$40.84,$0.00,$40.84,Physical Good
+23/06/2024,11:55:59,Couple,Couple - Bear,1,$49.92,$0.00,$49.92,Physical Good
+23/06/2024,11:10:21,Couple,Couple - Tomato,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,22:11:16,None,Damaged Item,2,$45.38,$0.00,$45.38,Physical Good
+22/06/2024,22:11:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,21:15:31,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,21:15:07,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,21:05:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,20:55:28,None,Tea - C2,1,$4.08,$0.00,$4.08,Physical Good
+22/06/2024,20:18:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,20:18:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,20:13:26,None,Teddy With Tote,2,$72.73,$0.00,$72.73,Physical Good
+22/06/2024,20:12:32,None,Imperfect,2,$45.38,$0.00,$45.38,Physical Good
+22/06/2024,19:53:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,19:53:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,19:49:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,19:49:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,19:38:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,19:36:54,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,19:36:54,None,Naruto,1,$40.84,$0.00,$40.84,Physical Good
+22/06/2024,19:29:50,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+22/06/2024,19:29:50,None,Naruto,1,$40.85,$0.00,$40.85,Physical Good
+22/06/2024,19:18:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,19:18:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,18:37:13,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+22/06/2024,18:35:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,18:35:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,18:34:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,18:34:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,18:34:06,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+22/06/2024,18:11:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,18:11:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,18:05:15,Beverages,Drink - Banana Milk,2,$6.82,$0.00,$6.82,Physical Good
+22/06/2024,17:36:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,17:23:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,17:23:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,17:23:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,17:19:26,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,17:13:22,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+22/06/2024,17:13:22,None,Repeat painting,1,$9.07,$0.00,$9.07,Service
+22/06/2024,17:12:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,17:01:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,16:53:54,None,doreamon batman,1,$45.38,$0.00,$45.38,Physical Good
+22/06/2024,16:53:54,Kuromi,Kuromi - Dragon,1,$40.85,$0.00,$40.85,Physical Good
+22/06/2024,16:53:54,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+22/06/2024,16:53:54,Beverages,Energy Drink - Red Bull,1,$4.54,$0.00,$4.54,Physical Good
+22/06/2024,16:42:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,16:42:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,16:38:41,None,Pokemon - Blastoise,1,$45.38,$0.00,$45.38,Physical Good
+22/06/2024,16:38:28,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,16:17:36,None,Captain US Doremon,1,$45.46,$0.00,$45.46,Physical Good
+22/06/2024,16:17:36,None,Skull Panda - Rabbit Trainer,1,$45.45,$0.00,$45.45,Physical Good
+22/06/2024,16:14:34,Kuromi,Kuromi - Dragon,1,$40.91,$0.00,$40.91,Physical Good
+22/06/2024,16:13:53,None,Teddy With Tote,1,$36.30,$0.00,$36.30,Physical Good
+22/06/2024,16:13:53,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,16:12:39,Beverages,Drink - Banana Milk,2,$6.81,$0.00,$6.81,Physical Good
+22/06/2024,16:12:39,None,Tea - C2,1,$4.08,$0.00,$4.08,Physical Good
+22/06/2024,16:11:04,Kuromi,Kuromi - With Hat,1,$40.84,$0.00,$40.84,Physical Good
+22/06/2024,16:09:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,16:09:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,16:03:10,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,16:03:10,None,Naruto,1,$40.84,$0.00,$40.84,Physical Good
+22/06/2024,16:01:59,Couple,Couple - Cat,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,16:00:59,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,15:56:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,15:56:31,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+22/06/2024,15:38:12,None,Naruto,1,$41.94,-$11.84,$30.10,Physical Good
+22/06/2024,15:38:12,None,Skull Panda - Rabbit Trainer,1,$46.59,-$13.16,$33.43,Physical Good
+22/06/2024,15:32:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,15:32:12,None,doreamon batman,1,$45.38,$0.00,$45.38,Physical Good
+22/06/2024,15:30:14,Kuromi,Kuromi - Dragon,2,$81.69,$0.00,$81.69,Physical Good
+22/06/2024,15:23:36,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+22/06/2024,15:23:09,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+22/06/2024,15:22:31,Couple,Couple - Cat,2,$99.84,$0.00,$99.84,Physical Good
+22/06/2024,15:22:31,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+22/06/2024,15:22:31,Cinamonroll,Cinamonroll,2,$72.61,$0.00,$72.61,Physical Good
+22/06/2024,15:22:31,Kuromi,Kuromi - Dragon,1,$40.85,$0.00,$40.85,Physical Good
+22/06/2024,15:07:11,None,Hello kitty,2,$72.61,$0.00,$72.61,Physical Good
+22/06/2024,14:58:01,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+22/06/2024,14:54:09,None,Naruto,1,$40.84,$0.00,$40.84,Physical Good
+22/06/2024,14:53:42,Cinamonroll,Cinamonroll,1,$36.30,$0.00,$36.30,Physical Good
+22/06/2024,14:53:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,14:52:31,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,14:51:34,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+22/06/2024,14:48:45,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,14:42:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,14:42:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,14:31:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,14:30:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,14:30:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,14:29:21,None,Skull Panda - Rabbit Trainer,1,$45.46,$0.00,$45.46,Physical Good
+22/06/2024,14:29:21,Cinamonroll,Cinamonroll,1,$36.36,$0.00,$36.36,Physical Good
+22/06/2024,14:21:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,14:21:01,Couple,Couple - Cat,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,14:19:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,14:18:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,14:18:22,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,14:09:55,Melody,Melody,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,14:06:44,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,14:05:22,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,14:05:22,None,Pokemon - Blastoise,1,$45.38,$0.00,$45.38,Physical Good
+22/06/2024,14:00:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,14:00:13,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,13:56:49,None,Skull Panda - Rabbit Trainer,-1,-$45.45,$0.00,-$45.45,Physical Good
+22/06/2024,13:56:49,None,Hello kitty,-2,-$72.73,$0.00,-$72.73,Physical Good
+22/06/2024,13:56:49,None,Ltd Ed - Hello Kitty Baby,-1,-$36.36,$0.00,-$36.36,Physical Good
+22/06/2024,13:56:49,None,Couple - Avo Duck,-1,-$50.00,$0.00,-$50.00,Physical Good
+22/06/2024,13:56:49,None,Kuromi - Clown,-1,-$40.91,$0.00,-$40.91,Physical Good
+22/06/2024,13:56:34,None,Skull Panda - Rabbit Trainer,1,$45.45,$0.00,$45.45,Physical Good
+22/06/2024,13:56:34,Couple,Couple - Avo Duck,1,$50.00,$0.00,$50.00,Physical Good
+22/06/2024,13:56:34,None,Ltd Ed - Hello Kitty Baby,1,$36.36,$0.00,$36.36,Physical Good
+22/06/2024,13:56:34,None,Hello kitty,2,$72.73,$0.00,$72.73,Physical Good
+22/06/2024,13:56:34,Kuromi,Kuromi - Clown,1,$40.91,$0.00,$40.91,Physical Good
+22/06/2024,13:52:46,None,Skull Panda - Rabbit Trainer,-1,-$45.88,$4.63,-$41.25,Physical Good
+22/06/2024,13:52:46,None,Kuromi - Heart,-1,-$41.29,$4.17,-$37.12,Physical Good
+22/06/2024,13:52:46,None,Couple - Avo Duck,-1,-$50.46,$5.09,-$45.37,Physical Good
+22/06/2024,13:52:46,None,Hello kitty,-3,-$110.10,$11.11,-$98.99,Physical Good
+22/06/2024,13:52:25,Couple,Couple - Avo Duck,1,$50.46,-$5.09,$45.37,Physical Good
+22/06/2024,13:52:25,None,Skull Panda - Rabbit Trainer,1,$45.88,-$4.63,$41.25,Physical Good
+22/06/2024,13:52:25,None,Hello kitty,3,$110.10,-$11.11,$98.99,Physical Good
+22/06/2024,13:52:25,Kuromi,Kuromi - Heart,1,$41.29,-$4.17,$37.12,Physical Good
+22/06/2024,13:48:59,Beverages,Energy Drink - Red Bull,1,$4.54,$0.00,$4.54,Physical Good
+22/06/2024,13:41:25,Couple,Couple - Lucky Cat,1,$50.50,-$6.25,$44.25,Physical Good
+22/06/2024,13:41:25,None,Hello kitty,1,$36.73,-$4.55,$32.18,Physical Good
+22/06/2024,13:41:25,Cinamonroll,Cinamonroll,1,$36.72,-$4.54,$32.18,Physical Good
+22/06/2024,13:41:25,Melody,Melody,1,$36.73,-$4.55,$32.18,Physical Good
+22/06/2024,13:41:25,Kuromi,Kuromi - With Hat,1,$41.31,-$5.11,$36.20,Physical Good
+22/06/2024,13:35:12,None,doreamon batman,1,$45.38,$0.00,$45.38,Physical Good
+22/06/2024,13:35:12,Kuromi,Kuromi - Dragon,1,$40.85,$0.00,$40.85,Physical Good
+22/06/2024,13:24:46,None,Rain Baby,2,$108.92,$0.00,$108.92,Physical Good
+22/06/2024,13:23:57,Skull Panda,Skull Panda 1,1,$41.67,-$9.00,$32.67,Physical Good
+22/06/2024,13:23:57,Kuromi,Kuromi Eclipse,1,$41.26,-$4.50,$36.76,Physical Good
+22/06/2024,13:12:54,None,Rain Baby,1,$54.46,$0.00,$54.46,Physical Good
+22/06/2024,13:08:30,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,12:52:30,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,12:52:10,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+22/06/2024,12:51:55,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,12:51:32,Couple,Couple - Cat,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,12:50:52,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,12:50:23,Couple,Couple - Cat,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,12:49:33,None,Dino - Small,2,$72.61,$0.00,$72.61,Physical Good
+22/06/2024,12:42:41,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,12:33:52,Melody,Melody,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,12:33:08,None,Dino - Small,1,$36.36,$0.00,$36.36,Physical Good
+22/06/2024,12:32:30,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,12:26:11,None,Fox Nine Tailed - Large,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,12:26:11,Skull Panda,Skull Panda 2,1,$40.85,$0.00,$40.85,Physical Good
+22/06/2024,12:26:11,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+22/06/2024,12:25:08,Beverages,Energy Drink - Red Bull,2,$9.08,$0.00,$9.08,Physical Good
+22/06/2024,12:25:08,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+22/06/2024,12:25:08,None,Pokemon - Blastoise,1,$45.38,$0.00,$45.38,Physical Good
+22/06/2024,12:20:15,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+22/06/2024,12:19:55,None,Dino - Small,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,12:16:09,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,12:15:40,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,12:14:37,None,Fox Nine Tailed - Large,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,12:14:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,12:12:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,12:12:09,Cinamonroll,Cinamonroll,1,$36.30,$0.00,$36.30,Physical Good
+22/06/2024,12:01:30,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,12:00:39,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+22/06/2024,11:50:57,Couple,Couple - Cat,1,$49.92,$0.00,$49.92,Physical Good
+22/06/2024,11:50:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+22/06/2024,11:35:24,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+22/06/2024,11:34:20,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+22/06/2024,0:06:24,None,Booking,1,$22.73,$0.00,$22.73,Service
+21/06/2024,23:05:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,22:46:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,22:46:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,22:46:02,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+21/06/2024,21:44:57,None,Gloss Varnish,2,$9.08,$0.00,$9.08,Service
+21/06/2024,21:32:20,Melody,Melody,1,$36.31,$0.00,$36.31,Physical Good
+21/06/2024,21:28:39,None,Dino - Small,1,$36.31,$0.00,$36.31,Physical Good
+21/06/2024,21:28:39,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+21/06/2024,20:17:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,20:03:27,None,doreamon batman,1,$45.38,$0.00,$45.38,Physical Good
+21/06/2024,20:03:27,Skull Panda,Skull Panda 1,1,$40.85,$0.00,$40.85,Physical Good
+21/06/2024,19:49:27,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+21/06/2024,18:47:41,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,18:40:37,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+21/06/2024,18:40:16,None,Damaged Item,1,$22.69,$0.00,$22.69,Physical Good
+21/06/2024,17:28:00,None,Skull Panda - Rabbit Trainer,2,$90.77,$0.00,$90.77,Physical Good
+21/06/2024,17:28:00,Skull Panda,Skull Panda 4,1,$40.84,$0.00,$40.84,Physical Good
+21/06/2024,17:25:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,16:50:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,15:19:35,None,Hello kitty,1,$36.31,$0.00,$36.31,Physical Good
+21/06/2024,15:19:35,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+21/06/2024,15:12:44,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+21/06/2024,15:11:47,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+21/06/2024,14:31:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,14:31:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,14:16:14,None,Fox Nine Tailed - Large,1,$50.68,-$8.25,$42.43,Physical Good
+21/06/2024,14:16:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,14:15:40,Kuromi,Kuromi - Clown,1,$41.47,-$6.75,$34.72,Physical Good
+21/06/2024,14:15:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,14:12:13,None,Dino Baby,1,$36.86,-$6.00,$30.86,Physical Good
+21/06/2024,14:11:47,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+21/06/2024,14:05:50,None,Dino - Small,1,$36.86,-$6.00,$30.86,Physical Good
+21/06/2024,14:05:50,None,Teddy With Tote,1,$36.86,-$6.00,$30.86,Physical Good
+21/06/2024,14:04:53,Skull Panda,Skull Panda 4,1,$41.47,-$6.75,$34.72,Physical Good
+21/06/2024,14:04:53,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+21/06/2024,14:03:59,None,Teddy With Tote,1,$36.86,-$6.00,$30.86,Physical Good
+21/06/2024,14:03:59,Melody,Melody,1,$36.86,-$6.00,$30.86,Physical Good
+21/06/2024,14:03:59,None,Imperfect,1,$23.04,-$3.75,$19.29,Physical Good
+21/06/2024,13:45:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,13:45:59,Melody,Melody,1,$36.86,-$6.00,$30.86,Physical Good
+21/06/2024,13:13:34,None,Imperfect,1,$23.04,-$3.75,$19.29,Physical Good
+21/06/2024,13:03:01,Skull Panda,Skull Panda 1,1,$41.47,-$6.75,$34.72,Physical Good
+21/06/2024,13:03:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+21/06/2024,13:01:11,None,Teddy With Tote,1,$36.86,-$6.00,$30.86,Physical Good
+21/06/2024,12:32:29,None,Dino - Small,1,$36.86,-$6.00,$30.86,Physical Good
+21/06/2024,12:31:31,None,Pokemon - Blastoise,1,$46.07,-$7.50,$38.57,Physical Good
+21/06/2024,12:14:49,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+21/06/2024,12:13:53,Melody,Melody,1,$36.91,-$6.00,$30.91,Physical Good
+21/06/2024,11:51:10,Kuromi,Kuromi - Bowtie,1,$41.47,-$6.75,$34.72,Physical Good
+21/06/2024,11:50:41,Melody,Melody,1,$36.86,-$6.00,$30.86,Physical Good
+21/06/2024,11:50:14,Skull Panda,Skull Panda 6,1,$41.47,-$6.75,$34.72,Physical Good
+21/06/2024,11:49:45,None,Dino - Small,1,$36.86,-$6.00,$30.86,Physical Good
+21/06/2024,11:49:15,None,Teddy With Tote,1,$36.86,-$6.00,$30.86,Physical Good
+21/06/2024,11:48:15,None,Dino - Small,1,$36.91,-$6.00,$30.91,Physical Good
+20/06/2024,20:20:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,20:14:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,19:46:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,19:34:49,None,pokemon - icecream,2,$72.61,$0.00,$72.61,Physical Good
+20/06/2024,19:16:15,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+20/06/2024,19:05:32,Skull Panda,Skull Panda 1,2,$81.69,$0.00,$81.69,Physical Good
+20/06/2024,18:58:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,18:51:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,18:48:32,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+20/06/2024,18:47:53,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+20/06/2024,18:47:28,None,Skull Panda - Gold Hat,1,$45.38,$0.00,$45.38,Physical Good
+20/06/2024,18:23:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,17:43:46,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+20/06/2024,17:26:12,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+20/06/2024,17:19:38,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+20/06/2024,17:08:12,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+20/06/2024,17:07:57,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+20/06/2024,16:40:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,16:32:50,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+20/06/2024,16:32:24,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+20/06/2024,16:17:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,15:45:58,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+20/06/2024,15:45:42,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+20/06/2024,15:28:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,15:28:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,15:28:59,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+20/06/2024,15:27:44,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+20/06/2024,15:26:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,15:26:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,15:24:09,None,Angel - Sleeping,1,$45.38,$0.00,$45.38,Physical Good
+20/06/2024,14:42:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+20/06/2024,13:52:47,None,Lion Skullpanda,-1,-$64.59,$10.50,-$54.09,Physical Good
+20/06/2024,13:24:01,None,Damaged Item,2,$46.07,-$7.50,$38.57,Physical Good
+20/06/2024,13:16:59,None,Imperfect,1,$23.04,-$3.75,$19.29,Physical Good
+20/06/2024,13:15:51,Kuromi,Kuromi - Clown,1,$41.82,-$10.58,$31.24,Physical Good
+20/06/2024,12:59:15,Skull Panda,Skull Panda 1,1,$41.47,-$6.75,$34.72,Physical Good
+20/06/2024,12:58:49,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+20/06/2024,12:58:49,Kuromi,Kuromi - Dragon,1,$41.47,-$6.75,$34.72,Physical Good
+20/06/2024,12:57:59,None,Marvel,1,$46.07,-$7.50,$38.57,Physical Good
+20/06/2024,12:57:59,Skull Panda,Skull Panda 2,1,$41.47,-$6.75,$34.72,Physical Good
+20/06/2024,12:37:27,None,Rain Baby,1,$55.29,-$9.00,$46.29,Physical Good
+20/06/2024,12:36:26,None,Angel - Sleeping,1,$46.47,-$11.75,$34.72,Physical Good
+20/06/2024,12:26:21,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+20/06/2024,12:26:10,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+20/06/2024,12:11:34,None,Damaged Item,1,$23.04,-$3.75,$19.29,Physical Good
+20/06/2024,12:11:11,None,Damaged Item,1,$23.04,-$3.75,$19.29,Physical Good
+20/06/2024,12:10:15,None,Damaged Item,1,$23.07,-$3.75,$19.32,Physical Good
+20/06/2024,12:09:41,None,Damaged Item,1,$23.04,-$3.75,$19.29,Physical Good
+20/06/2024,12:08:20,None,Damaged Item,1,$23.07,-$3.75,$19.32,Physical Good
+20/06/2024,12:08:20,None,Lion Skullpanda,1,$64.59,-$10.50,$54.09,Physical Good
+19/06/2024,21:19:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+19/06/2024,19:36:57,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+19/06/2024,19:36:29,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+19/06/2024,19:36:04,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+19/06/2024,19:12:25,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+19/06/2024,19:12:10,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+19/06/2024,19:11:26,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+19/06/2024,19:10:52,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+19/06/2024,18:43:53,Kuromi,Kuromi - Dragon,1,$40.90,$0.00,$40.90,Physical Good
+19/06/2024,18:43:53,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+19/06/2024,18:43:32,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+19/06/2024,18:43:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+19/06/2024,18:23:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+19/06/2024,18:23:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+19/06/2024,15:07:11,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+19/06/2024,15:06:58,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+19/06/2024,14:27:40,None,Skull Panda - Rabbit Trainer,1,$46.08,-$7.50,$38.58,Physical Good
+19/06/2024,14:27:40,None,Angel - Sleeping,1,$46.07,-$7.50,$38.57,Physical Good
+19/06/2024,13:56:40,Kuromi,Kuromi - Bowtie,1,$41.47,-$6.75,$34.72,Physical Good
+19/06/2024,12:53:19,None,Marvel,1,$46.07,-$7.50,$38.57,Physical Good
+19/06/2024,12:53:19,None,pokemon - icecream,1,$36.86,-$6.00,$30.86,Physical Good
+19/06/2024,12:12:40,None,Jessica Marshall’s booking 25 July 3:45pm,1,$325.00,$0.00,$325.00,
+18/06/2024,22:01:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,22:01:36,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+18/06/2024,21:59:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,21:59:25,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+18/06/2024,21:42:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,20:23:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,20:07:51,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+18/06/2024,20:07:51,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+18/06/2024,20:01:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,19:42:39,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+18/06/2024,19:38:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,19:38:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,19:38:53,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+18/06/2024,19:16:01,Skull Panda,Skull Panda 1,2,$81.68,$0.00,$81.68,Physical Good
+18/06/2024,19:16:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,19:16:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,19:10:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,19:10:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,19:10:23,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+18/06/2024,18:59:28,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+18/06/2024,18:46:17,None,Teddy With Tote,-1,-$36.31,$0.00,-$36.31,Physical Good
+18/06/2024,18:39:08,None,Skull Panda - Rabbit Trainer,1,$45.45,$0.00,$45.45,Physical Good
+18/06/2024,18:39:08,None,Skullpanda - Raining Day,1,$54.55,$0.00,$54.55,Physical Good
+18/06/2024,18:14:52,None,Angel - Sleeping,1,$45.45,$0.00,$45.45,Physical Good
+18/06/2024,18:14:52,Skull Panda,Skull Panda 6,1,$40.91,$0.00,$40.91,Physical Good
+18/06/2024,18:06:37,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+18/06/2024,18:02:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,18:01:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,17:56:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,17:56:21,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+18/06/2024,17:56:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,17:56:21,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+18/06/2024,17:55:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,17:52:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,17:49:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,17:25:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,17:25:07,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+18/06/2024,17:24:46,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+18/06/2024,17:12:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,16:47:34,None,Angel - Sleeping,2,$90.76,$0.00,$90.76,Physical Good
+18/06/2024,16:46:10,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+18/06/2024,16:33:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,16:30:52,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+18/06/2024,16:30:52,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+18/06/2024,16:30:52,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+18/06/2024,16:28:20,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+18/06/2024,16:27:55,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+18/06/2024,16:16:52,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+18/06/2024,16:16:52,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+18/06/2024,15:47:23,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+18/06/2024,15:47:01,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+18/06/2024,15:46:40,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+18/06/2024,15:35:23,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+18/06/2024,15:01:45,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+18/06/2024,15:01:25,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+18/06/2024,15:01:10,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+18/06/2024,15:00:56,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+18/06/2024,15:00:40,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+18/06/2024,15:00:22,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+18/06/2024,15:00:03,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+18/06/2024,14:59:48,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+18/06/2024,14:59:29,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+18/06/2024,14:59:06,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+18/06/2024,14:22:15,None,Skull Panda - Rabbit Trainer,1,$46.08,-$7.50,$38.58,Physical Good
+18/06/2024,14:22:15,Skull Panda,Skull Panda 3,1,$41.47,-$6.75,$34.72,Physical Good
+18/06/2024,14:22:15,Skull Panda,Skull Panda 2,1,$41.47,-$6.75,$34.72,Physical Good
+18/06/2024,14:22:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,14:22:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,14:22:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+18/06/2024,14:22:15,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+18/06/2024,14:22:15,None,Tea - C2,2,$8.16,$0.00,$8.16,Physical Good
+18/06/2024,14:07:11,Skull Panda,Skull Panda 4,1,$41.47,-$6.75,$34.72,Physical Good
+18/06/2024,14:06:49,None,pokemon - icecream,1,$36.86,-$6.00,$30.86,Physical Good
+18/06/2024,13:58:41,Skull Panda,Skull Panda 4,1,$41.47,-$6.75,$34.72,Physical Good
+18/06/2024,13:56:00,None,Sheep - Large,1,$55.29,-$9.00,$46.29,Physical Good
+18/06/2024,13:56:00,Kuromi,Kuromi - Evil Large,1,$46.07,-$7.50,$38.57,Physical Good
+17/06/2024,21:36:03,Skull Panda,Skull Panda 4,1,$40.85,$0.00,$40.85,Physical Good
+17/06/2024,21:36:03,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+17/06/2024,21:28:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,21:28:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,20:51:00,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,20:50:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,20:50:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,20:03:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,20:03:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,19:51:28,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+17/06/2024,19:44:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,19:40:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,19:37:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,18:48:16,Skull Panda,Skull Panda 3,2,$81.69,$0.00,$81.69,Physical Good
+17/06/2024,18:40:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,18:37:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,18:25:24,None,Tea - 0 degree,1,$4.08,$0.00,$4.08,Physical Good
+17/06/2024,18:17:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,16:46:22,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+17/06/2024,16:45:49,Skull Panda,Skull Panda 6,1,$40.84,$0.00,$40.84,Physical Good
+17/06/2024,16:43:54,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+17/06/2024,16:37:57,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+17/06/2024,16:18:49,None,Skull Panda - Rabbit Trainer,1,$45.45,$0.00,$45.45,Physical Good
+17/06/2024,15:12:29,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+17/06/2024,14:40:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+17/06/2024,14:39:58,None,pokemon - icecream,1,$36.86,-$6.00,$30.86,Physical Good
+17/06/2024,14:39:41,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+17/06/2024,14:39:03,None,pokemon - icecream,1,$36.91,-$6.00,$30.91,Physical Good
+17/06/2024,14:38:15,Skull Panda,Skull Panda 3,1,$41.47,-$6.75,$34.72,Physical Good
+17/06/2024,14:36:06,None,Mini Picture,1,$24.88,-$4.05,$20.83,Physical Good
+17/06/2024,14:35:22,Skull Panda,Skull Panda 2,1,$41.47,-$6.75,$34.72,Physical Good
+17/06/2024,14:25:55,Skull Panda,Skull Panda 1,1,$41.52,-$6.75,$34.77,Physical Good
+17/06/2024,14:24:49,Skull Panda,Skull Panda 3,1,$41.47,-$6.75,$34.72,Physical Good
+17/06/2024,14:24:12,None,Sheep - Large,1,$55.29,-$9.00,$46.29,Physical Good
+17/06/2024,12:30:48,Skull Panda,Skull Panda 1,1,$41.52,-$6.75,$34.77,Physical Good
+17/06/2024,12:30:48,None,Skull Panda - Rabbit Trainer,1,$46.14,-$7.50,$38.64,Physical Good
+17/06/2024,12:20:29,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+17/06/2024,12:16:09,None,Angel - Sleeping,1,$46.07,-$7.50,$38.57,Physical Good
+16/06/2024,21:25:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,21:25:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,21:24:49,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+16/06/2024,21:02:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,19:30:54,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,19:09:06,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,19:04:42,Beverages,Energy Drink - Red Bull,1,$4.54,$0.00,$4.54,Physical Good
+16/06/2024,19:04:42,None,Mini Picture,1,$24.50,$0.00,$24.50,Physical Good
+16/06/2024,17:19:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,17:09:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,17:09:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,16:52:32,None,Take-home kit,1,$2.73,$0.00,$2.73,Physical Good
+16/06/2024,16:49:27,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+16/06/2024,16:45:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,16:42:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,16:39:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,16:18:16,None,Lion Skullpanda,1,$63.54,$0.00,$63.54,Physical Good
+16/06/2024,16:18:16,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,16:13:19,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+16/06/2024,15:47:06,None,Angel - Sleeping,1,$45.45,$0.00,$45.45,Physical Good
+16/06/2024,15:30:14,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,15:26:50,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+16/06/2024,15:25:50,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,15:25:50,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+16/06/2024,15:14:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,15:14:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,15:03:04,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+16/06/2024,15:02:09,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,14:56:41,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+16/06/2024,14:53:46,None,Sheep - Large,1,$54.46,$0.00,$54.46,Physical Good
+16/06/2024,14:20:45,None,Lion Skullpanda,1,$63.53,$0.00,$63.53,Physical Good
+16/06/2024,14:19:09,None,Selina - 16th June 2pm,-1,-$200.00,$0.00,-$200.00,
+16/06/2024,14:12:23,None,Skull Panda - Gold Hat,1,$45.84,-$5.00,$40.84,Physical Good
+16/06/2024,14:04:22,None,Angel - Sleeping,1,$45.38,$0.00,$45.38,Physical Good
+16/06/2024,14:04:22,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+16/06/2024,14:04:22,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+16/06/2024,14:04:22,Beverages,Energy Drink - Red Bull,1,$4.54,$0.00,$4.54,Physical Good
+16/06/2024,13:52:20,Skull Panda,Skull Panda 6,1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,13:51:54,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,13:45:38,Cinamonroll,Cinamonroll,1,$37.04,-$8.00,$29.04,Physical Good
+16/06/2024,13:45:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,13:44:35,Kuromi,Kuromi Eclipse,1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,13:43:10,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+16/06/2024,13:39:46,Bear Brick,Bear Brick - Heart Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,13:39:23,Bear Brick,Bear Brick - Heart Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,13:38:32,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+16/06/2024,13:21:00,None,Lion Skullpanda,1,$63.53,$0.00,$63.53,Physical Good
+16/06/2024,13:20:33,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+16/06/2024,13:04:56,Skull Panda,Skull Panda 2,1,$40.85,$0.00,$40.85,Physical Good
+16/06/2024,13:04:56,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+16/06/2024,12:44:15,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+16/06/2024,12:43:33,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+16/06/2024,12:27:20,Cinamonroll,Cinamonroll,1,$37.04,-$8.00,$29.04,Physical Good
+16/06/2024,12:26:45,None,Lotso Bear (waving),1,$40.84,$0.00,$40.84,Physical Good
+16/06/2024,12:20:36,None,Mini Lotso Bear,1,$36.36,$0.00,$36.36,Physical Good
+16/06/2024,12:18:17,None,Skull Panda - Rabbit Trainer,1,$45.84,-$5.00,$40.84,Physical Good
+16/06/2024,12:18:17,Skull Panda,Skull Panda 1,1,$41.26,-$4.50,$36.76,Physical Good
+16/06/2024,12:08:59,None,Angel - Sleeping,1,$45.38,$0.00,$45.38,Physical Good
+16/06/2024,12:08:59,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+16/06/2024,11:19:40,None,Teddy With Tote,2,$72.61,$0.00,$72.61,Physical Good
+16/06/2024,11:19:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,11:19:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+16/06/2024,11:18:28,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+16/06/2024,11:18:28,Bear Brick,Bear Brick - Heart,1,$40.85,$0.00,$40.85,Physical Good
+15/06/2024,23:11:51,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+15/06/2024,21:57:45,None,Angel - Sleeping,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,21:57:20,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,21:04:29,None,Gloss Varnish,-1,-$4.54,$0.00,-$4.54,Service
+15/06/2024,21:04:29,None,Gloss Varnish,-1,-$4.54,$0.00,-$4.54,Service
+15/06/2024,21:03:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,21:03:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,21:03:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,21:03:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,21:03:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,21:03:08,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+15/06/2024,20:41:06,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,20:27:54,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+15/06/2024,20:27:37,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+15/06/2024,20:27:25,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+15/06/2024,20:27:11,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+15/06/2024,20:24:40,Beverages,Energy Drink - Red Bull,1,$4.54,$0.00,$4.54,Physical Good
+15/06/2024,20:05:17,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,20:05:17,Skull Panda,Skull Panda 1,1,$40.85,$0.00,$40.85,Physical Good
+15/06/2024,20:00:56,None,Return to Paint,2,$18.15,$0.00,$18.15,Physical Good
+15/06/2024,19:57:05,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+15/06/2024,19:44:56,None,Angel - Sleeping,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,19:44:56,None,Sheep - Large,1,$54.46,$0.00,$54.46,Physical Good
+15/06/2024,19:44:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,19:44:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,19:27:21,Kuromi,Kuromi - With Hat,1,$41.26,-$4.50,$36.76,Physical Good
+15/06/2024,19:27:21,None,Marvel,1,$45.84,-$5.00,$40.84,Physical Good
+15/06/2024,19:19:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,19:19:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,19:18:57,None,Skullpanda - Raining Day,1,$54.46,$0.00,$54.46,Physical Good
+15/06/2024,19:04:43,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,19:04:29,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,19:04:29,Beverages,Energy Drink - Red Bull,1,$4.54,$0.00,$4.54,Physical Good
+15/06/2024,19:04:29,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+15/06/2024,19:02:56,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,19:02:23,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,19:02:02,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,18:58:48,None,Booking,-1,-$22.73,$0.00,-$22.73,Service
+15/06/2024,18:50:19,Skull Panda,Skull Panda 4,1,$41.26,-$4.50,$36.76,Physical Good
+15/06/2024,18:50:19,None,Mini Picture,1,$24.75,-$2.70,$22.05,Physical Good
+15/06/2024,18:45:37,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,18:45:37,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,18:45:37,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,18:43:36,None,Booking,1,$22.73,$0.00,$22.73,Service
+15/06/2024,18:24:15,None,Sheep - Large,2,$108.92,$0.00,$108.92,Physical Good
+15/06/2024,18:24:15,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,18:24:15,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+15/06/2024,18:24:15,Beverages,Soft Drink - Can,2,$5.45,$0.00,$5.45,Physical Good
+15/06/2024,18:23:28,Skull Panda,Skull Panda 3,1,$40.85,$0.00,$40.85,Physical Good
+15/06/2024,18:23:28,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,18:17:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,18:14:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,18:05:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,17:57:46,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,17:57:46,Kuromi,Kuromi - Bowtie,1,$40.85,$0.00,$40.85,Physical Good
+15/06/2024,17:57:46,None,Tea - C2,1,$4.08,$0.00,$4.08,Physical Good
+15/06/2024,17:50:26,Skull Panda,Skull Panda 4,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,17:50:26,Skull Panda,Skull Panda 1,1,$40.85,$0.00,$40.85,Physical Good
+15/06/2024,17:48:19,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+15/06/2024,17:48:19,None,pokemon - icecream,1,$36.30,$0.00,$36.30,Physical Good
+15/06/2024,17:46:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,17:38:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,17:38:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,17:32:05,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,17:32:05,Beverages,Energy Drink - Red Bull,1,$4.54,$0.00,$4.54,Physical Good
+15/06/2024,17:32:05,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+15/06/2024,17:30:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,17:22:14,Skull Panda,Skull Panda 4,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,17:21:09,Kuromi,Kuromi - With Hat,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,17:16:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,17:12:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,17:10:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,17:06:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,17:06:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,17:05:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,17:02:19,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,17:02:19,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,17:01:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,16:42:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,16:42:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,16:34:26,None,Angel - Sleeping,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,16:34:26,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,16:31:54,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,16:26:43,None,Mini Plate,1,$22.73,$0.00,$22.73,Physical Good
+15/06/2024,16:12:56,None,Lion Skullpanda,1,$63.53,$0.00,$63.53,Physical Good
+15/06/2024,16:12:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,16:10:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,16:08:17,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,16:08:17,Skull Panda,Skull Panda 4,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,16:02:14,None,Mini Picture,1,$24.55,$0.00,$24.55,Physical Good
+15/06/2024,16:01:48,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,15:50:36,Kuromi,Kuromi - Bowtie,2,$81.69,$0.00,$81.69,Physical Good
+15/06/2024,15:50:20,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,15:46:36,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,15:46:36,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,15:46:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,15:46:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,15:43:54,None,Damaged Item,2,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,15:37:27,Skull Panda,Skull Panda 4,1,$40.85,$0.00,$40.85,Physical Good
+15/06/2024,15:37:27,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+15/06/2024,15:36:03,Beverages,Energy Drink - Red Bull,1,$4.54,$0.00,$4.54,Physical Good
+15/06/2024,15:36:03,Skull Panda,Skull Panda 5,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,15:32:20,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+15/06/2024,15:31:41,Kuromi,Kuromi - Heart,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,15:31:41,Beverages,Soft Drink - Can,2,$5.45,$0.00,$5.45,Physical Good
+15/06/2024,15:30:16,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,15:29:58,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+15/06/2024,15:29:42,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,15:29:15,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,15:28:51,None,Sheep - Large,1,$54.46,$0.00,$54.46,Physical Good
+15/06/2024,15:28:51,None,Mini Picture,1,$24.50,$0.00,$24.50,Physical Good
+15/06/2024,15:23:07,Skull Panda,Skull Panda 5,1,$40.91,$0.00,$40.91,Physical Good
+15/06/2024,15:22:42,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,15:16:39,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+15/06/2024,15:13:51,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+15/06/2024,15:09:50,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,15:09:29,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,15:00:39,None,Rain Baby,1,$54.46,$0.00,$54.46,Physical Good
+15/06/2024,14:55:00,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+15/06/2024,14:54:41,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+15/06/2024,14:53:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,14:53:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,14:53:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,14:53:08,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+15/06/2024,14:22:02,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,14:21:43,Skull Panda,Skull Panda 6,1,$40.91,$0.00,$40.91,Physical Good
+15/06/2024,14:20:55,None,Skull Panda - Rabbit Trainer,1,$45.84,-$5.00,$40.84,Physical Good
+15/06/2024,14:20:22,Skull Panda,Skull Panda 3,1,$41.26,-$4.50,$36.76,Physical Good
+15/06/2024,14:17:33,Kuromi,Kuromi - Dragon,3,$122.53,$0.00,$122.53,Physical Good
+15/06/2024,14:06:46,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+15/06/2024,14:06:46,None,Mini Plate,1,$23.15,-$5.00,$18.15,Physical Good
+15/06/2024,14:06:46,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,14:06:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,14:06:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,14:06:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,14:03:18,None,Skullpanda - Raining Day,1,$54.46,$0.00,$54.46,Physical Good
+15/06/2024,14:03:18,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,13:53:23,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+15/06/2024,13:53:23,None,Mermaid,1,$31.77,$0.00,$31.77,Physical Good
+15/06/2024,13:53:23,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,13:53:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,13:53:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,13:53:23,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+15/06/2024,13:43:12,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,13:42:51,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,13:27:43,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,13:27:29,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,13:19:55,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,13:19:55,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,13:11:40,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,13:10:02,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,13:09:32,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,13:09:15,Kuromi,Kuromi - Heart,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,13:08:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,13:04:40,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+15/06/2024,13:04:01,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+15/06/2024,13:03:20,None,Teddy With Tote,1,$36.36,$0.00,$36.36,Physical Good
+15/06/2024,13:02:30,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,13:02:04,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,12:56:24,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+15/06/2024,12:56:24,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+15/06/2024,12:44:12,None,Skull Panda - Rabbit Trainer,1,$45.45,$0.00,$45.45,Physical Good
+15/06/2024,12:39:20,None,Unicorn (Pony),1,$31.77,$0.00,$31.77,Physical Good
+15/06/2024,12:39:20,None,pokemon - icecream,1,$36.30,$0.00,$36.30,Physical Good
+15/06/2024,12:39:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,12:39:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,12:27:17,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+15/06/2024,12:27:17,None,Repeat painting,1,$9.07,$0.00,$9.07,Service
+15/06/2024,12:16:22,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+15/06/2024,12:15:58,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+15/06/2024,12:15:23,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,12:14:56,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+15/06/2024,11:48:44,None,Resting Sloth,2,$54.46,$0.00,$54.46,Physical Good
+15/06/2024,11:00:41,None,Teddy With Tote,1,$36.30,$0.00,$36.30,Physical Good
+15/06/2024,11:00:41,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,10:59:14,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+15/06/2024,10:59:14,Bear Brick,Bear Brick - Heart,1,$40.85,$0.00,$40.85,Physical Good
+15/06/2024,10:59:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,10:59:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+15/06/2024,10:59:14,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+14/06/2024,22:24:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,21:52:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,21:48:29,Kuromi,Kuromi - Clown,1,$41.67,-$9.00,$32.67,Physical Good
+14/06/2024,20:59:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,20:52:57,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,20:52:57,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,Physical Good
+14/06/2024,20:52:57,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+14/06/2024,20:46:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,20:42:59,None,Mermaid,1,$31.77,$0.00,$31.77,Physical Good
+14/06/2024,20:42:59,None,Mini Picture,1,$24.50,$0.00,$24.50,Physical Good
+14/06/2024,20:19:05,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+14/06/2024,20:16:49,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+14/06/2024,19:57:10,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+14/06/2024,19:56:30,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+14/06/2024,19:56:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,19:56:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,19:55:06,None,Skullpanda - Raining Day,1,$54.46,$0.00,$54.46,Physical Good
+14/06/2024,19:34:47,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+14/06/2024,19:31:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,19:30:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,19:30:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,19:29:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,19:12:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,19:10:37,None,Gloss Varnish,-1,-$4.54,$0.00,-$4.54,Service
+14/06/2024,19:00:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,18:51:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,18:44:54,Bear Brick,Bear Brick - Rainbow,1,$43.15,-$25.00,$18.15,Physical Good
+14/06/2024,18:44:25,None,Squid game,1,$38.61,-$25.00,$13.61,Physical Good
+14/06/2024,18:44:08,Kuromi,Kuromi - Evil Large,1,$47.69,-$25.00,$22.69,Physical Good
+14/06/2024,18:42:03,None,Mini Picture,1,$26.82,-$25.00,$1.82,Physical Good
+14/06/2024,18:41:25,None,Marvel,1,$47.56,-$23.58,$23.98,Physical Good
+14/06/2024,18:41:25,Beverages,Soft Drink - Can,1,$2.85,-$1.42,$1.43,Physical Good
+14/06/2024,18:40:55,None,Marvel,1,$47.69,-$25.00,$22.69,Physical Good
+14/06/2024,18:37:43,Kuromi,Kuromi - Dragon,1,$43.15,-$25.00,$18.15,Physical Good
+14/06/2024,18:37:25,Kuromi,Kuromi - Dragon,1,$43.15,-$25.00,$18.15,Physical Good
+14/06/2024,18:31:25,None,Rabbit - Happy Sleepy,1,$36.31,$0.00,$36.31,Physical Good
+14/06/2024,18:31:25,None,Skull Panda - Gold Hat,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,18:27:51,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+14/06/2024,18:27:51,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,18:26:01,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,18:19:38,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+14/06/2024,18:17:15,None,Squid game,1,$36.31,$0.00,$36.31,Physical Good
+14/06/2024,18:17:15,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,17:20:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,17:20:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,17:19:33,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,17:18:23,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,17:09:24,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+14/06/2024,17:09:24,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+14/06/2024,16:57:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,16:57:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,16:56:12,None,Unicorn (Pony),1,$31.77,$0.00,$31.77,Physical Good
+14/06/2024,16:55:56,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+14/06/2024,16:55:34,None,Mermaid,1,$31.77,$0.00,$31.77,Physical Good
+14/06/2024,16:41:45,None,Rain Baby,1,$54.46,$0.00,$54.46,Physical Good
+14/06/2024,16:41:45,None,Squid game,1,$36.30,$0.00,$36.30,Physical Good
+14/06/2024,16:40:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,16:29:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,16:27:51,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+14/06/2024,16:23:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,16:23:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,16:23:38,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+14/06/2024,16:22:35,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,16:22:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,16:21:51,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,16:13:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,16:12:58,Bear Brick,Bear Brick - Heart,1,$40.84,$0.00,$40.84,Physical Good
+14/06/2024,16:12:58,Kuromi,Kuromi - Dragon,1,$40.85,$0.00,$40.85,Physical Good
+14/06/2024,15:55:54,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,15:50:10,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,15:48:23,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,15:48:23,Skull Panda,Skull Panda 1,1,$40.85,$0.00,$40.85,Physical Good
+14/06/2024,15:42:11,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+14/06/2024,15:38:36,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+14/06/2024,15:38:22,None,Skullpanda - Raining Day,1,$54.46,$0.00,$54.46,Physical Good
+14/06/2024,15:37:02,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+14/06/2024,15:36:47,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+14/06/2024,15:35:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,15:35:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,15:35:16,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+14/06/2024,15:33:36,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+14/06/2024,15:33:36,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+14/06/2024,15:03:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+14/06/2024,15:02:35,None,Sheep - Large,1,$55.29,-$9.00,$46.29,Physical Good
+14/06/2024,14:57:42,None,Mini Plate,1,$23.04,-$3.75,$19.29,Physical Good
+14/06/2024,14:57:42,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+14/06/2024,14:46:28,Skull Panda,Skull Panda 1,1,$41.47,-$6.75,$34.72,Physical Good
+14/06/2024,14:46:28,None,Mermaid,1,$32.25,-$5.25,$27.00,Physical Good
+14/06/2024,14:22:38,Kuromi,Kuromi - Bowtie,1,$41.46,-$6.75,$34.71,Physical Good
+14/06/2024,14:22:38,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+14/06/2024,14:22:38,Beverages,Soft Drink - Can,1,$2.73,$0.00,$2.73,Physical Good
+14/06/2024,13:56:50,Kuromi,Kuromi - Bowtie,1,$41.47,-$6.75,$34.72,Physical Good
+14/06/2024,13:56:28,Skull Panda,Skull Panda 2,1,$41.47,-$6.75,$34.72,Physical Good
+14/06/2024,13:44:28,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+14/06/2024,13:44:28,Skull Panda,Skull Panda 2,1,$41.47,-$6.75,$34.72,Physical Good
+14/06/2024,13:42:48,None,Angel - Sleeping,1,$46.07,-$7.50,$38.57,Physical Good
+14/06/2024,13:42:48,Bear Brick,Bear Brick - Heart Rainbow,1,$41.47,-$6.75,$34.72,Physical Good
+14/06/2024,13:41:17,None,Mini Plate,1,$23.04,-$3.75,$19.29,Physical Good
+14/06/2024,13:41:00,None,Mini Plate,1,$23.04,-$3.75,$19.29,Physical Good
+14/06/2024,13:39:09,None,Mini Plate,2,$46.07,-$7.50,$38.57,Physical Good
+14/06/2024,13:29:02,Bear Brick,Bear Brick - Heart,1,$41.47,-$6.75,$34.72,Physical Good
+14/06/2024,13:28:40,Bear Brick,Bear Brick - Heart,1,$41.47,-$6.75,$34.72,Physical Good
+14/06/2024,13:28:18,Bear Brick,Bear Brick - Heart,1,$41.47,-$6.75,$34.72,Physical Good
+14/06/2024,13:10:16,None,Teddy With Tote,2,$73.72,-$12.00,$61.72,Physical Good
+14/06/2024,12:47:41,None,Skullpanda - Raining Day,1,$55.29,-$9.00,$46.29,Physical Good
+14/06/2024,11:24:11,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+13/06/2024,22:08:16,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+13/06/2024,22:08:16,Skull Panda,Skull Panda 2,1,$40.85,$0.00,$40.85,Physical Good
+13/06/2024,20:46:57,Kuromi,Kuromi - Heart,1,$40.84,$0.00,$40.84,Physical Good
+13/06/2024,19:00:08,None,Mermaid,1,$31.76,$0.00,$31.76,Physical Good
+13/06/2024,19:00:08,None,Unicorn (Pony),1,$31.77,$0.00,$31.77,Physical Good
+13/06/2024,18:35:56,None,Custom Amount,1,$14.52,$0.00,$14.52,
+13/06/2024,18:21:06,None,Imperfect,1,$23.15,-$5.00,$18.15,Physical Good
+13/06/2024,18:21:06,None,Skull Panda - Rabbit Trainer,1,$46.31,-$10.00,$36.31,Physical Good
+13/06/2024,17:47:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+13/06/2024,17:29:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+13/06/2024,17:28:21,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+13/06/2024,16:13:38,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+13/06/2024,16:13:17,None,Mini Lotso Bear,1,$36.36,$0.00,$36.36,Physical Good
+13/06/2024,15:58:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+13/06/2024,15:28:41,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+13/06/2024,15:16:40,Skull Panda,Skull Panda 6,1,$40.84,$0.00,$40.84,Physical Good
+13/06/2024,15:06:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+13/06/2024,15:03:58,None,Lion Skullpanda,1,$63.53,$0.00,$63.53,Physical Good
+13/06/2024,15:03:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+13/06/2024,14:45:00,Bear Brick,Bear Brick - Heart Rainbow,1,$41.46,-$6.75,$34.71,Physical Good
+13/06/2024,14:45:00,Kuromi,Kuromi - Bowtie,1,$41.47,-$6.75,$34.72,Physical Good
+13/06/2024,14:08:36,None,Skull Panda - Gold Hat,1,$46.07,-$7.50,$38.57,Physical Good
+13/06/2024,14:07:53,None,Lion Skullpanda,1,$64.50,-$10.50,$54.00,Physical Good
+13/06/2024,14:06:30,None,Unicorn (Pony),1,$32.30,-$5.25,$27.05,Physical Good
+13/06/2024,14:06:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+13/06/2024,14:06:30,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,Physical Good
+13/06/2024,13:52:27,None,Skull Panda - Gold Hat,1,$46.07,-$7.50,$38.57,Physical Good
+13/06/2024,13:51:13,Bear Brick,Bear Brick - Heart Rainbow,1,$41.47,-$6.75,$34.72,Physical Good
+13/06/2024,13:49:47,Bear Brick,Bear Brick - Heart Rainbow,1,$41.47,-$6.75,$34.72,Physical Good
+13/06/2024,13:46:19,Skull Panda,Skull Panda 4,1,$41.47,-$6.75,$34.72,Physical Good
+13/06/2024,13:31:03,Skull Panda,Skull Panda 4,2,$83.64,-$21.15,$62.49,Physical Good
+13/06/2024,13:26:34,None,Lotso Bear (waving),1,$41.47,-$6.75,$34.72,Physical Good
+13/06/2024,13:26:09,Kuromi,Kuromi - Clown,1,$41.47,-$6.75,$34.72,Physical Good
+13/06/2024,13:21:35,None,Prism Bear,2,$92.15,-$15.00,$77.15,Physical Good
+12/06/2024,19:29:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,19:26:09,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+12/06/2024,19:20:51,None,Selina - 16th June 2pm,1,$200.00,$0.00,$200.00,
+12/06/2024,19:00:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,18:52:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,18:43:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,18:23:28,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+12/06/2024,18:23:01,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+12/06/2024,18:12:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,18:10:42,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+12/06/2024,17:55:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,17:55:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,17:44:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,17:41:05,Beverages,Bottle - Sting,1,$4.31,$0.00,$4.31,Physical Good
+12/06/2024,17:31:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,17:28:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,17:28:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,17:19:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,17:03:20,None,Mini Picture,2,$49.01,$0.00,$49.01,Physical Good
+12/06/2024,16:53:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,16:49:31,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+12/06/2024,16:49:31,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+12/06/2024,16:49:11,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+12/06/2024,16:48:40,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+12/06/2024,16:48:40,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+12/06/2024,16:43:47,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+12/06/2024,16:43:27,None,Dora,1,$36.31,$0.00,$36.31,Physical Good
+12/06/2024,16:43:06,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+12/06/2024,16:35:36,None,Lotso Bear (waving),1,$41.32,-$4.50,$36.82,Physical Good
+12/06/2024,16:35:36,Kuromi,Kuromi Eclipse,1,$41.32,-$4.50,$36.82,Physical Good
+12/06/2024,16:35:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,16:35:36,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+12/06/2024,16:21:39,None,Skull Panda - Rabbit Trainer,1,$45.45,$0.00,$45.45,Physical Good
+12/06/2024,16:21:39,Beverages,Water - Bottle,1,$2.73,$0.00,$2.73,Physical Good
+12/06/2024,16:20:48,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+12/06/2024,16:20:30,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+12/06/2024,16:20:30,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+12/06/2024,16:07:49,Bear Brick,Bear Brick - Heart Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+12/06/2024,16:07:49,Kuromi,Kuromi - Dragon,1,$40.85,$0.00,$40.85,Physical Good
+12/06/2024,16:06:43,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+12/06/2024,16:06:43,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+12/06/2024,16:06:43,Beverages,Soft Drink - Can,2,$5.45,$0.00,$5.45,Physical Good
+12/06/2024,15:58:50,None,Mini Plate,2,$46.07,-$7.50,$38.57,Physical Good
+12/06/2024,15:57:25,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+12/06/2024,15:57:25,None,Repeat painting,1,$9.07,$0.00,$9.07,Service
+12/06/2024,15:57:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+12/06/2024,15:51:12,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+12/06/2024,15:40:32,None,Lotso Bear (waving),1,$41.47,-$6.75,$34.72,Physical Good
+12/06/2024,15:40:32,None,pokemon - icecream,1,$36.86,-$6.00,$30.86,Physical Good
+12/06/2024,14:39:53,None,Lotso Bear (waving),1,$41.52,-$6.75,$34.77,Physical Good
+12/06/2024,14:39:53,None,Skull Panda - Rabbit Trainer,1,$46.14,-$7.50,$38.64,Physical Good
+12/06/2024,14:32:58,None,Lotso Bear (waving),1,$41.47,-$6.75,$34.72,Physical Good
+12/06/2024,14:22:45,None,Lotso Bear (waving),1,$41.47,-$6.75,$34.72,Physical Good
+12/06/2024,14:22:45,None,Sheep - Large,1,$55.29,-$9.00,$46.29,Physical Good
+12/06/2024,14:22:45,Kuromi,Kuromi - Evil Large,1,$46.07,-$7.50,$38.57,Physical Good
+11/06/2024,21:25:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,21:14:38,Skull Panda,Skull Panda 4,1,$40.84,$0.00,$40.84,Physical Good
+11/06/2024,20:55:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,20:36:38,Skull Panda,Skull Panda 4,1,$40.91,$0.00,$40.91,Physical Good
+11/06/2024,19:35:53,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+11/06/2024,19:18:34,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+11/06/2024,19:18:34,None,Minion,1,$36.31,$0.00,$36.31,Physical Good
+11/06/2024,19:16:36,None,Tea - C2,1,$4.08,$0.00,$4.08,Physical Good
+11/06/2024,19:15:32,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+11/06/2024,18:53:50,Bear Brick,Bear Brick - Heart Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+11/06/2024,18:17:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,18:17:20,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+11/06/2024,17:59:39,Kuromi,Kuromi Eclipse,1,$40.84,$0.00,$40.84,Physical Good
+11/06/2024,17:50:35,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+11/06/2024,17:28:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,17:28:18,Beverages,Water - Bottle,1,$2.73,$0.00,$2.73,Physical Good
+11/06/2024,17:10:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,17:10:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,16:47:19,None,Mini Lotso Bear,1,$36.36,$0.00,$36.36,Physical Good
+11/06/2024,16:19:14,None,Minion,1,$36.31,$0.00,$36.31,Physical Good
+11/06/2024,16:19:14,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+11/06/2024,15:48:53,Beverages,Soft Drink - Can,1,$2.73,$0.00,$2.73,Physical Good
+11/06/2024,15:47:51,Beverages,Soft Drink - Can,1,$2.73,$0.00,$2.73,Physical Good
+11/06/2024,15:36:15,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,Physical Good
+11/06/2024,15:34:05,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+11/06/2024,15:09:24,Kuromi,Kuromi - Clown,1,$41.47,-$6.75,$34.72,Physical Good
+11/06/2024,15:08:58,None,Angel - Sleeping,1,$46.07,-$7.50,$38.57,Physical Good
+11/06/2024,15:07:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,15:07:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,14:52:07,Kuromi,Kuromi - With Hat,1,$41.47,-$6.75,$34.72,Physical Good
+11/06/2024,14:52:07,None,Mini Plate,1,$23.04,-$3.75,$19.29,Physical Good
+11/06/2024,14:52:07,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+11/06/2024,14:37:39,None,Cat - Milk Bottle,1,$41.47,-$6.75,$34.72,Physical Good
+11/06/2024,14:37:39,None,Sheep - Large,1,$55.29,-$9.00,$46.29,Physical Good
+11/06/2024,14:29:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,14:28:47,None,Cat - Milk Bottle,1,$41.47,-$6.75,$34.72,Physical Good
+11/06/2024,13:42:49,None,Mini Plate,2,$46.07,-$7.50,$38.57,Physical Good
+11/06/2024,13:39:00,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,13:35:39,Kuromi,Kuromi - With Hat,1,$41.47,-$6.75,$34.72,Physical Good
+11/06/2024,13:35:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,13:32:46,None,Prism Bear,1,$46.07,-$7.50,$38.57,Physical Good
+11/06/2024,13:32:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+11/06/2024,13:08:50,None,Skull Panda - Rabbit Trainer,1,$46.14,-$7.50,$38.64,Physical Good
+11/06/2024,12:12:51,None,Mermaid,1,$32.25,-$5.25,$27.00,Physical Good
+10/06/2024,23:13:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,23:09:31,None,Take-home kit,2,$5.45,$0.00,$5.45,Physical Good
+10/06/2024,23:02:19,None,Gloss Varnish,2,$9.08,$0.00,$9.08,Service
+10/06/2024,21:32:15,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+10/06/2024,21:30:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,21:25:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,21:04:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,20:52:29,Bear Brick,Bear Brick - Heart Rainbow,1,$40.91,$0.00,$40.91,Physical Good
+10/06/2024,20:52:29,None,Skull Panda - Rabbit Trainer,1,$45.45,$0.00,$45.45,Physical Good
+10/06/2024,20:52:29,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,Physical Good
+10/06/2024,20:46:30,None,Angel - Sleeping,1,$45.38,$0.00,$45.38,Physical Good
+10/06/2024,20:46:04,None,Tea - C2,1,$4.09,$0.00,$4.09,Physical Good
+10/06/2024,20:46:04,Beverages,Bottle - Sting,1,$4.31,$0.00,$4.31,Physical Good
+10/06/2024,20:44:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,20:41:32,None,Squid game,1,$36.31,$0.00,$36.31,Physical Good
+10/06/2024,20:40:13,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+10/06/2024,20:38:05,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+10/06/2024,20:37:33,None,Pot Lady Large - 1,1,$49.92,$0.00,$49.92,Physical Good
+10/06/2024,19:02:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,19:02:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,18:44:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,18:41:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,18:41:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,18:29:55,None,Marvel,1,$45.45,$0.00,$45.45,Physical Good
+10/06/2024,18:19:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,18:11:41,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,18:10:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,18:06:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,18:06:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,17:41:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,17:41:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,17:34:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,17:34:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,17:33:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,17:25:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,17:25:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,17:22:25,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+10/06/2024,17:04:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,17:04:16,Bear Brick,Bear Brick - Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,17:04:16,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+10/06/2024,16:54:19,Bear Brick,Bear Brick - Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,16:51:40,None,Mini Lotso Bear,1,$36.30,$0.00,$36.30,Physical Good
+10/06/2024,16:51:40,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+10/06/2024,16:34:59,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+10/06/2024,16:34:59,Bear Brick,Bear Brick - Heart Rainbow,1,$40.85,$0.00,$40.85,Physical Good
+10/06/2024,16:33:33,None,Lotso Bear (waving),1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,16:31:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,16:31:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,16:14:05,None,Tea - 0 degree,1,$4.08,$0.00,$4.08,Physical Good
+10/06/2024,15:51:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,15:47:56,None,Pot Lady Large - 1,1,$49.92,$0.00,$49.92,Physical Good
+10/06/2024,15:47:56,Bear Brick,Bear Brick - Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,15:30:45,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+10/06/2024,15:29:21,None,pokemon - icecream,2,$72.73,$0.00,$72.73,Physical Good
+10/06/2024,15:29:21,None,Unicorn (Pony),1,$31.82,$0.00,$31.82,Physical Good
+10/06/2024,15:28:09,None,Mermaid,1,$31.82,$0.00,$31.82,Physical Good
+10/06/2024,15:21:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,15:21:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,15:20:36,Kuromi,Kuromi - With Hat,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,15:12:13,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+10/06/2024,15:11:44,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+10/06/2024,15:11:16,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,15:10:46,None,Lotso Bear (waving),1,$40.91,$0.00,$40.91,Physical Good
+10/06/2024,15:10:19,Bear Brick,Bear Brick - Heart,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,15:09:31,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,15:09:31,Bear Brick,Bear Brick - Heart,1,$40.85,$0.00,$40.85,Physical Good
+10/06/2024,15:08:20,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,15:08:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,15:07:38,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,15:06:06,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,15:06:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,15:03:51,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+10/06/2024,15:03:51,None,Squid game,1,$36.31,$0.00,$36.31,Physical Good
+10/06/2024,15:01:23,Kuromi,Kuromi - Dragon,1,$41.26,-$4.50,$36.76,Physical Good
+10/06/2024,15:01:23,None,Mini Lotso Bear,1,$36.67,-$4.00,$32.67,Physical Good
+10/06/2024,14:59:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,14:54:28,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,14:53:53,Kuromi,Kuromi - With Hat,1,$40.91,$0.00,$40.91,Physical Good
+10/06/2024,14:52:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,14:50:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,14:49:48,Bear Brick,Bear Brick - Heart Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,14:41:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,14:41:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,14:40:35,Bear Brick,Bear Brick - Heart,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,14:33:47,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+10/06/2024,14:32:21,None,baa baa sheep,2,$72.61,$0.00,$72.61,Physical Good
+10/06/2024,14:17:17,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+10/06/2024,14:17:17,None,Lotso Bear (waving),1,$40.85,$0.00,$40.85,Physical Good
+10/06/2024,14:06:54,Kuromi,Kuromi - Dragon,1,$40.85,$0.00,$40.85,Physical Good
+10/06/2024,14:06:54,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+10/06/2024,14:02:01,None,Cat - Milk Bottle,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,14:01:19,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+10/06/2024,14:01:19,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+10/06/2024,13:51:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,13:24:14,None,Mermaid,1,$31.82,$0.00,$31.82,Physical Good
+10/06/2024,13:23:40,Bear Brick,Bear Brick - Heart Rainbow,1,$40.91,$0.00,$40.91,Physical Good
+10/06/2024,13:22:35,None,Teddy With Tote,1,$36.36,$0.00,$36.36,Physical Good
+10/06/2024,13:21:50,None,Mini Plate,1,$22.73,$0.00,$22.73,Physical Good
+10/06/2024,13:21:29,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+10/06/2024,13:20:55,None,Mini Plate,1,$22.73,$0.00,$22.73,Physical Good
+10/06/2024,13:20:09,None,Mermaid,1,$31.82,$0.00,$31.82,Physical Good
+10/06/2024,13:19:14,None,Teddy With Tote,1,$36.36,$0.00,$36.36,Physical Good
+10/06/2024,13:13:12,None,pokemon - icecream,2,$72.61,$0.00,$72.61,Physical Good
+10/06/2024,13:06:36,None,Mini Plate,1,$22.73,$0.00,$22.73,Physical Good
+10/06/2024,13:06:14,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+10/06/2024,13:05:27,None,Mini Plate,1,$22.73,$0.00,$22.73,Physical Good
+10/06/2024,13:01:13,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+10/06/2024,13:01:13,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+10/06/2024,12:50:41,Bear Brick,Bear Brick - Heart,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,12:50:41,None,Mermaid,1,$31.77,$0.00,$31.77,Physical Good
+10/06/2024,12:49:34,Kuromi,Kuromi - With Hat,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,12:44:51,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+10/06/2024,12:43:50,Bear Brick,Bear Brick - Heart Rainbow,1,$40.85,$0.00,$40.85,Physical Good
+10/06/2024,12:43:50,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+10/06/2024,12:41:37,None,Mermaid,1,$31.77,$0.00,$31.77,Physical Good
+10/06/2024,12:41:09,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+10/06/2024,11:57:03,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+10/06/2024,11:56:20,None,Skull Panda - Rabbit Trainer,1,$45.91,-$5.00,$40.91,Physical Good
+10/06/2024,11:56:20,Skull Panda,Skull Panda 4,1,$41.32,-$4.50,$36.82,Physical Good
+10/06/2024,11:42:24,None,Teddy With Tote,1,$36.36,$0.00,$36.36,Physical Good
+10/06/2024,11:42:24,None,Minion,1,$36.37,$0.00,$36.37,Physical Good
+10/06/2024,11:41:39,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+10/06/2024,11:41:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+10/06/2024,11:41:39,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+10/06/2024,11:39:10,None,Pot Lady Large - 2,1,$49.92,$0.00,$49.92,Physical Good
+10/06/2024,11:36:57,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+10/06/2024,11:36:10,None,Teddy With Tote,1,$36.37,$0.00,$36.37,Physical Good
+10/06/2024,11:36:10,None,Mini Plate,3,$68.18,$0.00,$68.18,Physical Good
+10/06/2024,11:34:29,Kuromi,Kuromi - With Hat,1,$40.84,$0.00,$40.84,Physical Good
+10/06/2024,11:33:26,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+10/06/2024,11:28:04,None,Unicorn (Pony),1,$31.76,$0.00,$31.76,Physical Good
+10/06/2024,11:28:04,Beverages,Soft Drink - Can,2,$5.45,$0.00,$5.45,Physical Good
+10/06/2024,11:16:29,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+10/06/2024,11:15:56,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,23:03:10,None,Gloss Varnish,-1,-$4.54,$0.00,-$4.54,Service
+9/06/2024,23:01:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,22:33:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,22:33:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,22:15:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,22:15:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,21:34:06,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,21:09:31,None,Mini Plate,1,$22.92,-$2.50,$20.42,Physical Good
+9/06/2024,21:08:18,None,Mini Plate,1,$22.92,-$2.50,$20.42,Physical Good
+9/06/2024,21:08:18,None,Squid game,1,$36.67,-$4.00,$32.67,Physical Good
+9/06/2024,21:08:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,21:08:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,20:56:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,20:56:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,20:19:09,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,20:19:09,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,19:56:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,19:56:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,19:53:32,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,19:52:49,Kuromi,Kuromi - With Hat,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,19:25:04,None,Teddy With Tote,1,$36.30,$0.00,$36.30,Physical Good
+9/06/2024,19:25:04,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,19:25:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,19:25:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,19:20:42,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,19:20:42,None,Minion,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,18:38:26,Beverages,Drink - Banana Milk,2,$6.81,$0.00,$6.81,Physical Good
+9/06/2024,18:22:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,18:20:05,None,Unicorn (Pony),1,$31.77,$0.00,$31.77,Physical Good
+9/06/2024,18:20:05,Beverages,Soft Drink - Can,2,$5.44,$0.00,$5.44,Physical Good
+9/06/2024,18:20:05,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+9/06/2024,18:13:44,Beverages,Bottle - Sting,1,$4.31,$0.00,$4.31,Physical Good
+9/06/2024,18:05:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,18:05:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,18:00:34,None,Teddy With Tote,2,$72.61,$0.00,$72.61,Physical Good
+9/06/2024,17:53:34,None,Pot Lady Large - 1,1,$49.92,$0.00,$49.92,Physical Good
+9/06/2024,17:53:34,None,Monster,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,17:51:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,17:51:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,17:48:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,17:48:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,17:44:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,17:44:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,17:28:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,17:14:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,17:05:57,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,17:02:49,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,17:02:49,None,Squid game,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,16:34:12,None,Monster,2,$81.69,$0.00,$81.69,Physical Good
+9/06/2024,16:33:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,16:33:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,16:28:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,16:24:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,16:24:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,16:20:10,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,16:17:43,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,16:16:13,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+9/06/2024,16:15:42,None,pokemon - icecream,2,$72.61,$0.00,$72.61,Physical Good
+9/06/2024,16:15:42,Beverages,Energy Drink - Red Bull,1,$4.54,$0.00,$4.54,Physical Good
+9/06/2024,16:05:30,None,Monster,2,$81.69,$0.00,$81.69,Physical Good
+9/06/2024,16:05:30,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+9/06/2024,16:03:41,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,16:03:41,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,15:59:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,15:53:08,Beverages,Soft Drink - Can,2,$5.45,$0.00,$5.45,Physical Good
+9/06/2024,15:33:17,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,15:33:17,None,Monster,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,15:33:17,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,15:33:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,15:33:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,15:33:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,15:30:40,None,Cat on Duck,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,15:30:40,None,Pot Lady Large - 1,1,$49.92,$0.00,$49.92,Physical Good
+9/06/2024,15:24:56,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,15:24:56,None,Skull Panda - Gold Hat,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,15:24:56,None,Cat on Duck,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,15:21:48,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,15:21:09,None,Cat on Duck,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,15:21:09,None,Minion,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,15:20:18,None,Teddy With Tote,2,$72.61,$0.00,$72.61,Physical Good
+9/06/2024,15:19:48,Kuromi,Kuromi - Dragon,1,$40.91,$0.00,$40.91,Physical Good
+9/06/2024,15:19:48,Bear Brick,Bear Brick - Rainbow,1,$40.91,$0.00,$40.91,Physical Good
+9/06/2024,15:19:16,None,Teddy With Tote,1,$36.30,$0.00,$36.30,Physical Good
+9/06/2024,15:19:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,15:04:03,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,15:04:03,None,Monster,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,15:04:03,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+9/06/2024,15:04:03,Beverages,Soft Drink - Can,1,$2.73,$0.00,$2.73,Physical Good
+9/06/2024,15:01:05,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,15:01:05,Skull Panda,Skull Panda 1,1,$40.85,$0.00,$40.85,Physical Good
+9/06/2024,14:57:04,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+9/06/2024,14:57:04,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,14:52:05,None,Sheep - Large,1,$54.46,$0.00,$54.46,Physical Good
+9/06/2024,14:52:05,None,Pot Lady Large - 1,1,$49.92,$0.00,$49.92,Physical Good
+9/06/2024,14:52:05,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,14:52:05,None,Skull Panda - Gold Hat,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,14:52:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,14:52:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,14:52:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,14:52:05,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+9/06/2024,14:43:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,14:43:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,14:43:19,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,14:43:19,None,Monster,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,14:39:28,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,14:35:57,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,14:35:32,None,Pot Lady Large - 1,1,$49.92,$0.00,$49.92,Physical Good
+9/06/2024,14:32:39,None,Mermaid,1,$31.77,$0.00,$31.77,Physical Good
+9/06/2024,14:27:19,None,Cat on Duck,1,$41.26,-$4.50,$36.76,Physical Good
+9/06/2024,14:26:46,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,14:25:53,None,baa baa sheep,2,$72.61,$0.00,$72.61,Physical Good
+9/06/2024,14:07:28,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+9/06/2024,14:06:37,None,Teddy With Tote,1,$36.36,$0.00,$36.36,Physical Good
+9/06/2024,14:05:59,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+9/06/2024,14:01:41,None,Cat on Duck,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,14:01:27,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,13:57:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,13:57:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,13:50:46,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+9/06/2024,13:50:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,13:50:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,13:50:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+9/06/2024,13:50:29,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+9/06/2024,13:44:56,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,13:44:56,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,13:43:05,None,Monster,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,13:42:42,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+9/06/2024,13:42:17,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,13:41:43,None,Damaged Item,2,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,13:38:52,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,13:16:02,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,13:15:45,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+9/06/2024,13:08:07,None,Mini Picture,1,$24.55,$0.00,$24.55,Physical Good
+9/06/2024,13:06:23,None,Mini Picture,1,$24.55,$0.00,$24.55,Physical Good
+9/06/2024,12:36:16,None,Mini Picture,1,$24.51,$0.00,$24.51,Physical Good
+9/06/2024,12:35:44,None,Mini Plate,1,$22.73,$0.00,$22.73,Physical Good
+9/06/2024,12:35:13,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+9/06/2024,12:14:19,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+9/06/2024,12:14:19,None,Minion,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,12:14:19,Bear Brick,Bear Brick - Heart Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,12:14:19,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,12:12:06,None,Mini Lotso Bear,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,12:12:06,None,baa baa sheep,1,$36.30,$0.00,$36.30,Physical Good
+9/06/2024,12:12:06,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,12:12:06,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,11:57:58,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,11:57:25,None,Teddy With Tote,1,$36.36,$0.00,$36.36,Physical Good
+9/06/2024,11:57:25,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+9/06/2024,11:51:51,None,Teddy With Tote,1,$36.36,$0.00,$36.36,Physical Good
+9/06/2024,11:45:06,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,11:45:06,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+9/06/2024,11:45:06,None,Minion,1,$36.31,$0.00,$36.31,Physical Good
+9/06/2024,11:45:06,Bear Brick,Bear Brick - Heart,1,$40.84,$0.00,$40.84,Physical Good
+9/06/2024,11:35:48,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+9/06/2024,11:09:51,None,Teddy With Tote,1,$36.36,$0.00,$36.36,Physical Good
+9/06/2024,11:09:12,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,23:33:20,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+8/06/2024,23:28:29,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+8/06/2024,22:00:58,None,Pot Lady Large - 1,1,$49.92,$0.00,$49.92,Physical Good
+8/06/2024,22:00:58,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,21:52:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,21:46:11,None,Resting Sloth,2,$54.46,$0.00,$54.46,Physical Good
+8/06/2024,21:38:38,None,Pot Lady Large - 1,1,$49.92,$0.00,$49.92,Physical Good
+8/06/2024,21:25:12,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+8/06/2024,21:08:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,21:08:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,20:25:09,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,20:25:09,Skull Panda,Skull Panda 2,1,$40.85,$0.00,$40.85,Physical Good
+8/06/2024,19:56:54,None,Kristy’s Booking on 14th June at 6pm,1,$300.00,$0.00,$300.00,
+8/06/2024,19:55:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,19:37:21,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,19:33:52,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,19:32:43,Beverages,Soy Milk,1,$4.31,$0.00,$4.31,Physical Good
+8/06/2024,19:15:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,19:13:31,None,Minion,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,19:05:51,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+8/06/2024,19:05:27,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+8/06/2024,18:51:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,18:51:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,18:50:21,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,18:50:21,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,18:34:41,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,18:31:32,None,Mini Lotso Bear,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,18:23:01,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,18:22:37,None,Sheep - Large,1,$54.46,$0.00,$54.46,Physical Good
+8/06/2024,18:19:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,18:17:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,18:17:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,18:16:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,18:16:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,18:16:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,18:05:05,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,18:05:05,None,Squid game,1,$36.30,$0.00,$36.30,Physical Good
+8/06/2024,18:05:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,18:05:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,17:53:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,17:53:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,17:44:05,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+8/06/2024,17:23:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,17:23:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,17:09:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,17:09:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,17:05:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,17:03:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,17:03:22,Bear Brick,Bear Brick - Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,17:02:57,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,17:01:56,None,baa baa sheep,1,$36.30,$0.00,$36.30,Physical Good
+8/06/2024,17:01:56,None,Squid game,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,16:54:50,Bear Brick,Bear Brick - OG,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,16:54:50,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,16:54:50,None,Chicken Mama,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,16:43:56,None,Mini Lotso Bear,1,$36.30,$0.00,$36.30,Physical Good
+8/06/2024,16:43:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,16:43:23,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+8/06/2024,16:43:23,None,Squid game,1,$36.30,$0.00,$36.30,Physical Good
+8/06/2024,16:42:31,None,Resting Sloth,2,$54.46,$0.00,$54.46,Physical Good
+8/06/2024,16:42:31,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+8/06/2024,16:28:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,16:25:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,16:11:05,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,15:59:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,15:58:07,None,Stitch - Tiger Hat,1,$40.85,$0.00,$40.85,Physical Good
+8/06/2024,15:58:07,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,15:51:30,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+8/06/2024,15:51:14,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+8/06/2024,15:44:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,15:43:00,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,15:38:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,15:33:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,15:33:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,15:33:00,None,Minion,1,$36.30,$0.00,$36.30,Physical Good
+8/06/2024,15:33:00,None,Mini Lotso Bear,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,15:31:28,Bear Brick,Bear Brick - OG,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,15:21:20,Skull Panda,Skull Panda 6,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,15:20:44,Kuromi,Kuromi - With Hat,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,15:10:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,15:09:20,Bear Brick,Bear Brick - OG,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,15:09:20,None,Chicken Mama,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,15:05:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,15:04:06,None,pokemon - icecream,2,$72.61,$0.00,$72.61,Physical Good
+8/06/2024,15:02:44,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,15:01:29,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,15:00:14,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+8/06/2024,14:59:46,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,14:59:16,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+8/06/2024,14:53:18,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+8/06/2024,14:53:05,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+8/06/2024,14:37:23,None,Mini Lotso Bear,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,14:36:42,None,Mini Lotso Bear,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,14:35:50,None,Pot Lady Large - 2,1,$49.92,$0.00,$49.92,Physical Good
+8/06/2024,14:35:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,14:13:34,Bear Brick,Bear - Astro,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,14:13:34,Bear Brick,Bear Brick - OG,1,$40.85,$0.00,$40.85,Physical Good
+8/06/2024,14:12:55,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+8/06/2024,14:12:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,14:12:23,Bear Brick,Bear Brick - Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,14:12:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,14:04:50,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,14:04:50,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,14:03:26,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+8/06/2024,14:00:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,14:00:17,None,Chicken Mama,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,14:00:17,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+8/06/2024,13:48:49,Bear Brick,Bear - Astro,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,13:48:20,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,13:47:21,Skull Panda,Skull Panda 5,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,13:46:02,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+8/06/2024,13:46:02,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,13:46:02,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,13:41:26,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,13:41:10,None,Mini Lotso Bear,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,13:26:59,Bear Brick,Bear Brick - OG,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,13:26:59,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,13:06:48,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,13:06:19,Skull Panda,Skull Panda 4,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,13:02:02,None,Chicken Mama,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,13:01:28,None,Cat - Milk Bottle,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,12:59:24,Kuromi,Kuromi Eclipse,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,12:59:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+8/06/2024,12:47:38,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+8/06/2024,12:45:09,Skull Panda,Skull Panda 4,1,$40.84,$0.00,$40.84,Physical Good
+8/06/2024,12:45:09,Beverages,Drink - Lipton,1,$4.54,$0.00,$4.54,Physical Good
+8/06/2024,12:44:27,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,12:44:27,None,Drink - Milkis,1,$2.72,$0.00,$2.72,Physical Good
+8/06/2024,12:44:03,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,12:44:03,None,Drink - Milkis,1,$2.72,$0.00,$2.72,Physical Good
+8/06/2024,12:26:20,None,Custom Amount,1,$22.69,$0.00,$22.69,
+8/06/2024,12:20:25,None,Mini Lotso Bear,1,$36.31,$0.00,$36.31,Physical Good
+8/06/2024,12:19:54,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+8/06/2024,12:10:19,None,Minion,1,$36.36,$0.00,$36.36,Physical Good
+8/06/2024,11:14:26,None,Angel - Sleeping,1,$45.38,$0.00,$45.38,Physical Good
+8/06/2024,11:14:26,None,Mini Lotso Bear,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,22:50:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,22:50:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,22:50:03,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+7/06/2024,22:06:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,22:06:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,21:30:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,21:30:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,21:30:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,21:30:26,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+7/06/2024,21:21:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,21:21:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,20:56:20,None,Stitch - Tiger Hat,1,$40.91,$0.00,$40.91,Physical Good
+7/06/2024,20:56:20,None,Marvel,1,$45.45,$0.00,$45.45,Physical Good
+7/06/2024,20:55:41,Beverages,Soft Drink - Can,2,$5.45,$0.00,$5.45,Physical Good
+7/06/2024,20:54:52,Bear Brick,Bear Brick - Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+7/06/2024,20:54:31,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,20:40:18,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+7/06/2024,20:40:18,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+7/06/2024,20:31:56,None,Mini Plate,1,$22.73,$0.00,$22.73,Physical Good
+7/06/2024,20:31:56,None,Chicken Mama,1,$36.36,$0.00,$36.36,Physical Good
+7/06/2024,20:31:56,None,Mini Lotso Bear,1,$36.36,$0.00,$36.36,Physical Good
+7/06/2024,20:19:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,20:19:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,19:36:35,Kuromi,Kuromi - With Hat,1,$40.84,$0.00,$40.84,Physical Good
+7/06/2024,19:36:06,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+7/06/2024,19:20:11,Beverages,Drink - Bird Nest,1,$4.08,$0.00,$4.08,Physical Good
+7/06/2024,19:19:40,None,Lion Skullpanda,2,$127.07,$0.00,$127.07,Physical Good
+7/06/2024,19:02:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,19:01:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,18:37:39,None,Imperfect,2,$45.38,$0.00,$45.38,Physical Good
+7/06/2024,18:21:55,Bear Brick,Bear Brick - Rabbit,1,$40.84,$0.00,$40.84,Physical Good
+7/06/2024,18:21:27,Bear Brick,Bear - Astro,1,$45.38,$0.00,$45.38,Physical Good
+7/06/2024,18:20:18,None,Chicken Mama,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,18:19:41,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+7/06/2024,18:07:33,None,Pot Lady Large - 1,1,$49.92,$0.00,$49.92,Physical Good
+7/06/2024,18:07:33,Bear Brick,Bear Brick - Rabbit,1,$40.84,$0.00,$40.84,Physical Good
+7/06/2024,17:59:40,None,Chicken Mama,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,17:58:43,Kuromi,Kuromi - Evil Large,-1,-$45.38,$0.00,-$45.38,Physical Good
+7/06/2024,17:56:34,None,Stitch - Tiger Hat,1,$40.85,$0.00,$40.85,Physical Good
+7/06/2024,17:56:34,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,Physical Good
+7/06/2024,17:10:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,17:10:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,17:00:12,Skull Panda,Skull Panda 4,1,$40.84,$0.00,$40.84,Physical Good
+7/06/2024,16:59:42,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,16:59:27,None,Chicken Mama,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,16:59:07,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,Physical Good
+7/06/2024,16:58:42,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,16:58:29,None,Kirby,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,16:58:07,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+7/06/2024,16:28:02,None,Pikachu on Saturn,1,$40.84,$0.00,$40.84,Physical Good
+7/06/2024,16:28:02,None,Kirby,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,15:50:59,None,Kirby,1,$36.30,$0.00,$36.30,Physical Good
+7/06/2024,15:50:59,None,Minion,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,15:36:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,15:25:42,None,Chicken Mama,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,15:25:06,None,Kirby,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,15:06:30,None,Damaged Item,1,$22.69,$0.00,$22.69,Physical Good
+7/06/2024,15:06:30,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+7/06/2024,15:00:30,None,Kirby,1,$36.31,$0.00,$36.31,Physical Good
+7/06/2024,15:00:02,Kuromi,Kuromi Eclipse,1,$40.91,$0.00,$40.91,Physical Good
+7/06/2024,14:58:59,Skull Panda,Skull Panda 3,1,$41.47,-$6.75,$34.72,Physical Good
+7/06/2024,14:58:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,14:58:11,None,Mini Plate,1,$23.04,-$3.75,$19.29,Physical Good
+7/06/2024,14:57:41,Skull Panda,Skull Panda 4,1,$41.47,-$6.75,$34.72,Physical Good
+7/06/2024,14:57:41,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,14:56:04,Kuromi,Kuromi - Evil Large,1,$46.07,-$7.50,$38.57,Physical Good
+7/06/2024,14:55:44,Kuromi,Kuromi - Evil Large,1,$46.07,-$7.50,$38.57,Physical Good
+7/06/2024,13:46:06,Kuromi,Kuromi - Evil Large,1,$46.07,-$7.50,$38.57,Physical Good
+7/06/2024,13:45:15,Skull Panda,Skull Panda 1,1,$41.52,-$6.75,$34.77,Physical Good
+7/06/2024,13:10:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,13:10:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+7/06/2024,13:07:03,None,Mini Plate,1,$23.04,-$3.75,$19.29,Physical Good
+7/06/2024,13:06:19,None,Mini Plate,1,$23.04,-$3.75,$19.29,Physical Good
+7/06/2024,12:26:42,None,baa baa sheep,1,$36.86,-$6.00,$30.86,Physical Good
+7/06/2024,12:25:44,None,Pikachu on Saturn,1,$41.47,-$6.75,$34.72,Physical Good
+7/06/2024,11:38:42,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+7/06/2024,11:38:09,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+7/06/2024,11:37:31,None,Mini Plate,1,$22.73,$0.00,$22.73,Physical Good
+7/06/2024,11:36:28,None,Mini Plate,1,$22.73,$0.00,$22.73,Physical Good
+7/06/2024,11:34:23,None,Damaged Item,1,$23.15,-$5.00,$18.15,Physical Good
+7/06/2024,11:29:35,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+7/06/2024,11:29:35,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+7/06/2024,11:29:35,None,Chicken Mama,1,$36.31,$0.00,$36.31,Physical Good
+6/06/2024,17:12:55,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+6/06/2024,17:11:29,Kuromi,Kuromi - Dragon,1,$40.84,$0.00,$40.84,Physical Good
+6/06/2024,16:30:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+6/06/2024,15:47:09,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+6/06/2024,14:42:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+6/06/2024,14:42:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+6/06/2024,14:42:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+6/06/2024,14:42:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+6/06/2024,14:42:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+6/06/2024,14:00:07,Beverages,Soft Drink - Can,2,$5.45,$0.00,$5.45,Physical Good
+6/06/2024,13:24:26,None,Skullpanda - Raining Day,1,$55.29,-$9.00,$46.29,Physical Good
+6/06/2024,13:23:30,None,pokemon - icecream,1,$36.86,-$6.00,$30.86,Physical Good
+6/06/2024,13:17:37,Bear Brick,Bear Brick - OG,2,$82.93,-$13.50,$69.43,Physical Good
+6/06/2024,12:41:16,None,Pikachu on Saturn,1,$41.47,-$6.75,$34.72,Physical Good
+6/06/2024,12:39:28,None,Stitch - Dragon Hat,1,$41.47,-$6.75,$34.72,Physical Good
+6/06/2024,12:39:28,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+6/06/2024,12:35:18,None,Minion,1,$36.86,-$6.00,$30.86,Physical Good
+6/06/2024,12:34:44,None,baa baa sheep,1,$36.86,-$6.00,$30.86,Physical Good
+6/06/2024,12:34:44,None,Mermaid,1,$32.25,-$5.25,$27.00,Physical Good
+6/06/2024,12:28:10,None,Phoebe Caputo 22/6 1.30pm 7,1,$175.00,$0.00,$175.00,
+5/06/2024,22:08:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,22:02:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,20:48:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,20:48:52,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+5/06/2024,20:15:21,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+5/06/2024,20:14:29,Bear Brick,Bear Brick - Heart Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+5/06/2024,19:53:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,19:53:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,19:11:15,None,Pikachu on Saturn,1,$40.91,$0.00,$40.91,Physical Good
+5/06/2024,19:11:15,None,Marvel,1,$45.45,$0.00,$45.45,Physical Good
+5/06/2024,18:31:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,18:31:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,18:11:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,17:57:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,17:52:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,17:52:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,17:42:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,17:34:54,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+5/06/2024,17:33:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,17:33:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,17:33:37,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+5/06/2024,17:31:11,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+5/06/2024,17:30:10,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+5/06/2024,17:29:47,None,Chicken Mama,1,$36.31,$0.00,$36.31,Physical Good
+5/06/2024,17:09:31,None,Repeat painting,1,$9.08,$0.00,$9.08,Service
+5/06/2024,17:09:31,None,Repeat painting,1,$9.07,$0.00,$9.07,Service
+5/06/2024,17:06:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,16:47:19,Kuromi,Kuromi - With Hat,1,$40.84,$0.00,$40.84,Physical Good
+5/06/2024,16:21:47,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,Physical Good
+5/06/2024,16:05:36,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+5/06/2024,16:05:19,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+5/06/2024,16:04:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,15:39:10,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+5/06/2024,15:39:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+5/06/2024,15:37:54,None,Pot Lady Large - 2,1,$50.68,-$8.25,$42.43,Physical Good
+5/06/2024,15:37:29,None,Cat on Duck,1,$41.47,-$6.75,$34.72,Physical Good
+5/06/2024,15:35:04,Skull Panda,Skull Panda 6,1,$41.47,-$6.75,$34.72,Physical Good
+5/06/2024,15:35:04,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+5/06/2024,15:26:02,None,Resting Sloth,1,$27.68,-$4.50,$23.18,Physical Good
+5/06/2024,15:26:02,None,Mini Plate,1,$23.07,-$3.75,$19.32,Physical Good
+5/06/2024,14:48:34,None,pokemon - icecream,1,$36.86,-$6.00,$30.86,Physical Good
+5/06/2024,14:47:56,None,Resting Sloth,1,$27.64,-$4.50,$23.14,Physical Good
+5/06/2024,14:32:51,None,Kirby,1,$36.86,-$6.00,$30.86,Physical Good
+5/06/2024,14:32:20,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,Physical Good
+5/06/2024,14:31:23,None,Minion,1,$36.86,-$6.00,$30.86,Physical Good
+5/06/2024,14:26:46,None,pokemon - icecream,1,$36.86,-$6.00,$30.86,Physical Good
+5/06/2024,14:26:46,None,Stitch - Tiger Hat,1,$41.47,-$6.75,$34.72,Physical Good
+5/06/2024,14:00:37,None,Kirby,1,$36.86,-$6.00,$30.86,Physical Good
+5/06/2024,14:00:13,None,Cat on Duck,1,$41.47,-$6.75,$34.72,Physical Good
+5/06/2024,13:59:43,None,Chicken Mama,1,$36.86,-$6.00,$30.86,Physical Good
+5/06/2024,13:58:25,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+5/06/2024,12:54:09,Bear Brick,Bear Brick - OG,1,$41.46,-$6.75,$34.71,Physical Good
+5/06/2024,12:54:09,None,Stitch - Dragon Hat,1,$41.47,-$6.75,$34.72,Physical Good
+5/06/2024,12:52:33,None,Mini Plate,1,$23.04,-$3.75,$19.29,Physical Good
+5/06/2024,12:47:15,Kuromi,Kuromi - Evil Large,1,$46.07,-$7.50,$38.57,Physical Good
+5/06/2024,12:32:35,None,Cat on Duck,1,$41.52,-$6.75,$34.77,Physical Good
+5/06/2024,12:22:02,None,Resting Sloth,1,$27.64,-$4.50,$23.14,Physical Good
+5/06/2024,12:22:02,None,Marvel,1,$46.08,-$7.50,$38.58,Physical Good
+4/06/2024,20:24:34,None,Squid game,1,$36.31,$0.00,$36.31,Physical Good
+4/06/2024,20:18:17,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+4/06/2024,20:18:17,None,Cat - Milk Bottle,1,$40.84,$0.00,$40.84,Physical Good
+4/06/2024,18:53:36,Bear Brick,Bear Brick - OG,1,$40.84,$0.00,$40.84,Physical Good
+4/06/2024,18:53:07,Bear Brick,Bear Brick - OG,1,$40.84,$0.00,$40.84,Physical Good
+4/06/2024,18:02:49,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+4/06/2024,16:14:49,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+4/06/2024,16:14:49,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+4/06/2024,16:14:23,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+4/06/2024,14:19:02,None,Mini Plate,3,$69.21,-$11.25,$57.96,Physical Good
+4/06/2024,14:19:02,None,Gloss Varnish,1,$4.61,-$0.75,$3.86,Service
+4/06/2024,14:19:02,None,Gloss Varnish,1,$4.62,-$0.75,$3.87,Service
+4/06/2024,14:19:02,None,Gloss Varnish,1,$4.61,-$0.75,$3.86,Service
+4/06/2024,13:36:06,None,Stitch - Tiger Hat,1,$41.47,-$6.75,$34.72,Physical Good
+4/06/2024,13:35:28,None,Kirby,1,$36.86,-$6.00,$30.86,Physical Good
+4/06/2024,13:34:47,None,Lion Skullpanda,1,$64.50,-$10.50,$54.00,Physical Good
+3/06/2024,21:12:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+3/06/2024,20:30:47,None,Adele’s Bday Saturday 8 June 11:45am,1,$200.00,$0.00,$200.00,
+3/06/2024,19:56:41,Bear Brick,Bear - Astro,1,$45.38,$0.00,$45.38,Physical Good
+3/06/2024,19:16:08,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+3/06/2024,18:59:47,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+3/06/2024,18:59:47,None,Pot Lady Large - 2,1,$49.92,$0.00,$49.92,Physical Good
+3/06/2024,18:45:36,Bear Brick,Bear Brick - Rabbit,1,$40.84,$0.00,$40.84,Physical Good
+3/06/2024,18:43:28,Bear Brick,Bear Brick - Rabbit,1,$40.84,$0.00,$40.84,Physical Good
+3/06/2024,17:51:45,None,Imperfect,1,$22.69,$0.00,$22.69,Physical Good
+3/06/2024,17:51:45,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+3/06/2024,17:48:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+3/06/2024,17:12:47,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Physical Good
+3/06/2024,16:55:45,None,Return to Paint,1,$9.08,$0.00,$9.08,Physical Good
+3/06/2024,16:19:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+3/06/2024,16:15:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+3/06/2024,15:48:13,None,Cat on Duck,1,$40.85,$0.00,$40.85,Physical Good
+3/06/2024,15:48:13,None,Tea - C2,1,$4.08,$0.00,$4.08,Physical Good
+3/06/2024,15:37:24,None,Marvel,1,$45.38,$0.00,$45.38,Physical Good
+3/06/2024,15:37:24,None,Cat on Duck,1,$40.85,$0.00,$40.85,Physical Good
+3/06/2024,15:00:22,None,Minion,1,$36.31,$0.00,$36.31,Physical Good
+3/06/2024,14:55:12,None,Marvel,1,$46.07,-$7.50,$38.57,Physical Good
+3/06/2024,14:55:12,Skull Panda,Skull Panda 4,1,$41.47,-$6.75,$34.72,Physical Good
+3/06/2024,14:53:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+3/06/2024,14:53:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+3/06/2024,14:33:00,None,Pot Lady Large - 2,1,$50.68,-$8.25,$42.43,Physical Good
+3/06/2024,14:30:25,None,Cat on Duck,1,$41.47,-$6.75,$34.72,Physical Good
+3/06/2024,14:30:25,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+3/06/2024,14:28:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+3/06/2024,14:26:12,Bear Brick,Bear - Astro,1,$46.07,-$7.50,$38.57,Physical Good
+3/06/2024,14:04:05,Bear Brick,Bear - Astro,1,$46.08,-$7.50,$38.58,Physical Good
+3/06/2024,14:04:05,Kuromi,Kuromi - Evil Large,1,$46.07,-$7.50,$38.57,Physical Good
+3/06/2024,14:02:02,Kuromi,Kuromi - With Hat,1,$41.47,-$6.75,$34.72,Physical Good
+3/06/2024,14:01:31,None,Kirby,1,$36.86,-$6.00,$30.86,Physical Good
+3/06/2024,13:56:38,None,Cat on Duck,1,$41.47,-$6.75,$34.72,Physical Good
+3/06/2024,13:55:43,None,Prism Bear,-1,-$46.07,$7.50,-$38.57,Physical Good
+3/06/2024,13:48:16,None,Mini Plate,2,$46.07,-$7.50,$38.57,Physical Good
+3/06/2024,13:48:16,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,Physical Good
+3/06/2024,13:48:16,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+3/06/2024,13:39:47,None,Prism Bear,1,$46.07,-$7.50,$38.57,Physical Good
+3/06/2024,13:39:47,None,pokemon - icecream,1,$36.86,-$6.00,$30.86,Physical Good
+3/06/2024,13:39:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+3/06/2024,13:39:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+3/06/2024,13:18:16,None,Mini Plate,2,$46.07,-$7.50,$38.57,Physical Good
+3/06/2024,12:11:06,Cinamonroll,Cinamonroll,1,$36.86,-$6.00,$30.86,Physical Good
+3/06/2024,12:10:36,None,Prism Bear,1,$46.14,-$7.50,$38.64,Physical Good
+3/06/2024,12:10:36,None,Sheep - Large,1,$55.36,-$9.00,$46.36,Physical Good
+3/06/2024,12:02:48,None,Pot Lady Large - 1,1,$50.68,-$8.25,$42.43,Physical Good
+3/06/2024,12:02:48,Bear Brick,Bear - Astro,1,$46.08,-$7.50,$38.58,Physical Good
+2/06/2024,23:11:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,23:11:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,23:01:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,23:01:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,20:54:36,None,Cat on Duck,1,$40.84,$0.00,$40.84,Physical Good
+2/06/2024,20:54:36,None,Lotso Bear (waving),1,$40.85,$0.00,$40.85,Physical Good
+2/06/2024,20:39:56,None,Pikachu on Saturn,1,$40.84,$0.00,$40.84,Physical Good
+2/06/2024,20:39:56,Skull Panda,Skull Panda 1,1,$40.85,$0.00,$40.85,Physical Good
+2/06/2024,20:02:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,20:02:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,19:48:11,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+2/06/2024,19:13:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,18:34:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,18:34:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,18:13:31,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+2/06/2024,18:13:15,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+2/06/2024,18:07:25,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+2/06/2024,18:07:05,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+2/06/2024,18:05:53,None,Resting Sloth,2,$54.46,$0.00,$54.46,Physical Good
+2/06/2024,18:02:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,18:00:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,18:00:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,17:51:11,None,Take-home kit,1,$2.72,$0.00,$2.72,Physical Good
+2/06/2024,17:50:15,Beverages,Water - Bottle,2,$5.45,$0.00,$5.45,Physical Good
+2/06/2024,17:27:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,17:27:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,17:27:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,17:27:10,None,Gloss Varnish,1,$4.53,$0.00,$4.53,Service
+2/06/2024,17:21:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,17:21:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,16:51:34,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+2/06/2024,16:05:48,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+2/06/2024,16:05:15,None,Tea - 0 degree,1,$4.08,$0.00,$4.08,Physical Good
+2/06/2024,15:44:34,Bear Brick,Bear Brick - Heart Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+2/06/2024,15:28:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,15:28:55,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+2/06/2024,15:21:47,Melody,Melody,1,$36.31,$0.00,$36.31,Physical Good
+2/06/2024,15:19:34,None,Cat on Duck,1,$40.84,$0.00,$40.84,Physical Good
+2/06/2024,15:14:53,Kuromi,Kuromi - With Hat,1,$40.91,$0.00,$40.91,Physical Good
+2/06/2024,15:14:53,None,Mini Plate,1,$22.73,$0.00,$22.73,Physical Good
+2/06/2024,14:29:57,None,Skull Panda - Rabbit Trainer,1,$45.45,$0.00,$45.45,Physical Good
+2/06/2024,14:29:57,Kuromi,Kuromi - Bowtie,1,$40.91,$0.00,$40.91,Physical Good
+2/06/2024,14:10:39,None,Kirby,1,$36.31,$0.00,$36.31,Physical Good
+2/06/2024,14:10:39,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+2/06/2024,14:10:39,None,Pot Lady Large - 2,1,$49.92,$0.00,$49.92,Physical Good
+2/06/2024,14:10:39,Bear Brick,Bear - Astro,1,$45.38,$0.00,$45.38,Physical Good
+2/06/2024,14:00:32,None,Kirby,1,$36.31,$0.00,$36.31,Physical Good
+2/06/2024,13:58:54,None,Minion,1,$36.31,$0.00,$36.31,Physical Good
+2/06/2024,13:55:00,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+2/06/2024,13:54:40,None,Pikachu on Saturn,1,$40.84,$0.00,$40.84,Physical Good
+2/06/2024,13:40:05,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+2/06/2024,13:40:05,None,Pikachu on Saturn,1,$40.85,$0.00,$40.85,Physical Good
+2/06/2024,13:39:16,None,Stitch - Tiger Hat,1,$40.84,$0.00,$40.84,Physical Good
+2/06/2024,13:39:16,None,Squid game,1,$36.31,$0.00,$36.31,Physical Good
+2/06/2024,13:38:21,Kuromi,Kuromi - Dragon,1,$40.91,$0.00,$40.91,Physical Good
+2/06/2024,13:38:21,None,Marvel,1,$45.46,$0.00,$45.46,Physical Good
+2/06/2024,13:38:21,Bear Brick,Bear - Astro,1,$45.45,$0.00,$45.45,Physical Good
+2/06/2024,13:38:21,Beverages,Soft Drink - Can,1,$2.73,$0.00,$2.73,Physical Good
+2/06/2024,13:35:32,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+2/06/2024,13:35:32,None,Drink - Milkis,1,$2.73,$0.00,$2.73,Physical Good
+2/06/2024,13:33:54,None,baa baa sheep,1,$36.31,$0.00,$36.31,Physical Good
+2/06/2024,13:31:55,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+2/06/2024,13:28:07,None,Angel - Sleeping,1,$45.38,$0.00,$45.38,Physical Good
+2/06/2024,13:27:45,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Physical Good
+2/06/2024,13:22:53,None,Lion Skullpanda,1,$63.53,$0.00,$63.53,Physical Good
+2/06/2024,13:17:59,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+2/06/2024,13:17:37,None,Stitch - Dragon Hat,1,$40.91,$0.00,$40.91,Physical Good
+2/06/2024,12:32:34,None,Pikachu on Saturn,1,$40.84,$0.00,$40.84,Physical Good
+2/06/2024,12:32:34,Skull Panda,Skull Panda 4,1,$40.84,$0.00,$40.84,Physical Good
+2/06/2024,12:32:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,12:32:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,11:51:33,None,Stitch - Tiger Hat,1,$40.84,$0.00,$40.84,Physical Good
+2/06/2024,11:51:09,None,Mini Lotso Bear,1,$36.30,$0.00,$36.30,Physical Good
+2/06/2024,11:51:09,None,baa baa sheep,1,$36.31,$0.00,$36.31,Physical Good
+2/06/2024,11:49:54,None,Mini Lotso Bear,1,$36.31,$0.00,$36.31,Physical Good
+2/06/2024,11:41:05,Melody,Melody,1,$36.30,$0.00,$36.30,Physical Good
+2/06/2024,11:41:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+2/06/2024,11:39:14,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+2/06/2024,11:39:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,21:38:23,None,Lion Skullpanda,1,$63.54,$0.00,$63.54,Physical Good
+1/06/2024,21:38:23,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+1/06/2024,21:33:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,21:33:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,21:04:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,21:04:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,20:55:22,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+1/06/2024,20:45:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,20:45:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,20:25:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,20:06:28,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+1/06/2024,19:16:20,None,Kirby,1,$36.30,$0.00,$36.30,Physical Good
+1/06/2024,19:16:20,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,19:06:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,19:00:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,18:41:37,Bear Brick,Bear - Astro,1,$45.38,$0.00,$45.38,Physical Good
+1/06/2024,18:41:37,Bear Brick,Bear Brick - OG,1,$40.85,$0.00,$40.85,Physical Good
+1/06/2024,18:24:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,18:24:45,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+1/06/2024,18:22:41,None,Lotso Bear (waving),1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,18:21:45,None,Squid game,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,18:12:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,18:12:25,None,Rabbit on Ducky,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,18:12:25,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Physical Good
+1/06/2024,18:12:25,None,Drink - Milkis,1,$2.72,$0.00,$2.72,Physical Good
+1/06/2024,18:12:25,None,Prism Bear,1,$45.39,$0.00,$45.39,Physical Good
+1/06/2024,18:11:09,None,Mini Lotso Bear,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,18:10:49,None,Kirby,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,18:02:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,18:02:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:58:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:38:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:33:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:12:00,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:05:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:05:46,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Service
+1/06/2024,17:05:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:03:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:03:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:03:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:03:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:01:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,17:00:52,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Physical Good
+1/06/2024,17:00:52,Beverages,Drink - Bird Nest,1,$4.09,$0.00,$4.09,Physical Good
+1/06/2024,17:00:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,16:59:12,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,16:58:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,16:58:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,16:58:26,None,Mini Lotso Bear,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,16:37:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,16:35:52,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+1/06/2024,16:27:42,None,Mini Lotso Bear,2,$72.61,$0.00,$72.61,Physical Good
+1/06/2024,15:52:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,15:52:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,15:51:51,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+1/06/2024,15:50:42,None,Cat on Duck,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,15:49:15,Skull Panda,Skull Panda 5,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,15:48:53,Bear Brick,Bear Brick - Heart Rainbow,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,15:40:07,None,teddy bear,2,$72.61,$0.00,$72.61,Physical Good
+1/06/2024,15:36:34,None,Lotso Bear (waving),1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,15:28:30,None,Lotso Bear (waving),1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,15:23:36,Bear Brick,Bear Brick - Rabbit,2,$81.69,$0.00,$81.69,Physical Good
+1/06/2024,15:22:46,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,15:22:20,Skull Panda,Skull Panda 3,2,$81.69,$0.00,$81.69,Physical Good
+1/06/2024,15:06:42,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,15:05:30,None,Mermaid,1,$31.77,$0.00,$31.77,Physical Good
+1/06/2024,14:48:06,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+1/06/2024,14:48:06,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Physical Good
+1/06/2024,14:47:02,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+1/06/2024,14:46:42,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,14:46:10,Melody,Melody,1,$36.30,$0.00,$36.30,Physical Good
+1/06/2024,14:46:10,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,14:44:45,Kuromi,Kuromi Eclipse,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,14:44:45,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,14:44:03,Bear Brick,Bear Brick - OG,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,14:43:42,None,baa baa sheep,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,14:43:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,14:43:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,14:42:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,14:42:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,14:34:50,None,Pikachu on Saturn,1,$40.91,$0.00,$40.91,Physical Good
+1/06/2024,14:34:50,None,pokemon - icecream,1,$36.36,$0.00,$36.36,Physical Good
+1/06/2024,14:17:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,14:17:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,14:15:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,14:15:16,None,teddy bear,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,14:14:56,None,Cat on Duck,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,14:14:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,14:14:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,13:54:24,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+1/06/2024,13:54:24,None,Cat on Duck,1,$40.85,$0.00,$40.85,Physical Good
+1/06/2024,13:53:21,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+1/06/2024,13:52:47,Bear Brick,Bear Brick - OG,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,13:52:47,None,Cat on Duck,1,$40.85,$0.00,$40.85,Physical Good
+1/06/2024,13:47:34,Skull Panda,Skull Panda 3,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,13:47:34,None,teddy bear,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,13:45:00,None,Unicorn (Pony),1,$31.77,$0.00,$31.77,Physical Good
+1/06/2024,13:44:43,None,Unicorn (Pony),1,$31.77,$0.00,$31.77,Physical Good
+1/06/2024,13:36:30,None,Skullpanda - Raining Day,1,$54.46,$0.00,$54.46,Physical Good
+1/06/2024,13:36:14,None,Lotso Bear (waving),1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,13:34:58,Skull Panda,Skull Panda 6,-1,-$40.84,$0.00,-$40.84,Physical Good
+1/06/2024,13:21:14,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+1/06/2024,13:20:50,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+1/06/2024,13:19:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,13:19:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,13:15:38,Skull Panda,Skull Panda 6,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,13:00:25,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+1/06/2024,12:59:56,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+1/06/2024,12:49:06,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+1/06/2024,12:49:06,Bear Brick,Bear Brick - OG,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,12:38:33,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+1/06/2024,12:38:33,None,pokemon - icecream,1,$36.30,$0.00,$36.30,Physical Good
+1/06/2024,12:31:28,None,Pikachu on Saturn,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,12:31:28,None,teddy bear,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,12:18:46,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,12:18:08,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,12:11:13,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+1/06/2024,12:05:36,None,Stitch - Dragon Hat,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,12:05:13,None,Squid game,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,12:04:50,None,teddy bear,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,12:04:31,Bear Brick,Bear Brick - Rabbit,1,$40.84,$0.00,$40.84,Physical Good
+1/06/2024,12:04:07,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+1/06/2024,11:59:58,None,Ltd Ed - Hello Kitty Baby,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,11:48:24,None,teddy bear,1,$36.36,$0.00,$36.36,Physical Good
+1/06/2024,11:47:57,None,Ltd Ed - Hello Kitty Baby,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,11:19:35,None,Mini Plate,1,$22.69,$0.00,$22.69,Physical Good
+1/06/2024,11:19:02,None,pokemon - icecream,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,11:16:59,None,Mini Plate,2,$45.38,$0.00,$45.38,Physical Good
+1/06/2024,11:14:53,None,Prism Bear,1,$45.38,$0.00,$45.38,Physical Good
+1/06/2024,11:14:53,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,11:14:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,11:14:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Service
+1/06/2024,11:14:53,Beverages,Water - Bottle,2,$5.44,$0.00,$5.44,Physical Good
+1/06/2024,11:14:53,Beverages,Energy Drink - Red Bull,1,$4.54,$0.00,$4.54,Physical Good
+1/06/2024,11:12:12,None,Sheep - Large,2,$108.92,$0.00,$108.92,Physical Good
+1/06/2024,11:12:12,None,Resting Sloth,1,$27.23,$0.00,$27.23,Physical Good
+1/06/2024,11:12:12,None,Prism Bear,3,$136.14,$0.00,$136.14,Physical Good
+1/06/2024,11:12:12,Cinamonroll,Cinamonroll,1,$36.31,$0.00,$36.31,Physical Good
+1/06/2024,11:12:12,Melody,Melody,2,$72.61,$0.00,$72.61,Physical Good
+1/06/2024,11:07:15,Bear Brick,Bear Brick - OG,1,$40.91,$0.00,$40.91,Physical Good
+1/06/2024,11:06:53,None,Teddy With Tote,1,$36.31,$0.00,$36.31,Physical Good
