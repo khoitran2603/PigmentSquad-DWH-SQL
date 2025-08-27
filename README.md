@@ -87,6 +87,12 @@ PigmentSquad-DWH-SQL/
 ## ⚙️ How to Reproduce
 1. Set up the SQL Server database and schemas.
 2. Run Bronze scripts to load raw CSVs.
-3. Run Silver scripts to clean and standardize.
+3. Run Silver scripts to clean and standardise.
 4. Run Gold scripts to generate business-ready outputs.
 5. Validate results with enrichment scripts and tests.
+
+---
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
