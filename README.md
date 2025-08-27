@@ -1,7 +1,7 @@
-Retail Data Warehouse and Analytics Project
+Retail Data Warehouse & Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+Welcome to the **PigmentSquad Data Warehouse & Analytics** repository! 🚀  
+This project showcases the end-to-end process of building a modern SQL Server data warehouse and applying analytics to retail POS sales. It demonstrates best practices in data engineering and exploratory analysis, designed as a portfolio project to highlight skills in ETL, data modelling, and insight generation.
 
 ---
 ## 🏗️ Data Architecture
@@ -53,25 +53,39 @@ These exploratory insights provided stakeholders with an early understanding of 
 ```
 PigmentSquad-DWH-SQL/
 │
-├── datasets/                           # Raw datasets used for the project (POS data)
+├── datasets/                          # Raw input files (monthly POS CSV exports from the store system)
 │
-├── docs/                               # Project documentation and architecture details
-│   ├── data_architecture.png           # Shows the project's architecture
-│   ├── data_catalog.md                 # Catalogue of datasets, including field descriptions and metadata
-│   ├── data_flow.png                   # Shows the data flow diagram
-│   ├── data_models.png                 # Shows the data models (fact table only)
+├── docs/                              # Documentation & project artifacts
+│   ├── data_architecture.png          # Visual diagram of the layered architecture (Bronze → Silver → Gold)
+│   ├── data_catalog.md                # Data dictionary with field descriptions and metadata
+│   ├── data_flow.png                  # End-to-end data flow (ingestion → transformation → reporting)
+│   ├── data_models.png                # Data model diagram (fact-centric design)
 │
-├── scripts/                            # SQL scripts for ETL and transformations
-|   ├── data warehouse/
-│       ├── bronze/                     # Scripts for extracting and loading raw data
-│       ├── silver/                     # Scripts for cleaning and transforming data
-│       ├── gold/                       # Scripts for creating analytical models
-|   ├── data enrichment/
+├── scripts/                           # All SQL scripts grouped by purpose
+│   ├── data warehouse/                # Core ETL pipeline for building the warehouse
+│   │   ├── bronze/                    # Extract & load raw data (staging layer)
+│   │   ├── silver/                    # Transform, clean, and standardise (business rules applied)
+│   │   ├── gold/                      # Curated outputs for analytics (fact dataset, refund logic, sales-hour metrics)
+│   ├── data enrichment/               # Exploratory & enrichment queries (segmentation, ranking)
 │
-├── tests/                              # Test scripts and quality files
+├── tests/                             # Quality checks and validation scripts to ensure accuracy of transformations
 │
-├── README.md                           # Project overview and instructions
-├── LICENSE                             # License information for the repository
-└── .gitignore                          # Files and directories to be ignored by Git
+├── README.md                          # Main project overview & user guide
+├── LICENSE                            # Open-source license for project use
+└── .gitignore                         # Files/folders excluded from Git (e.g., local cache, backups)
+
 ```
 ---
+## 🗝️ Key Outputs
+- **Cleaned fact dataset** with standardized transactions.
+- **Refund detection report** to identify change-of-mind events.
+- **Sales hour metric report** consolidating hourly KPIs and segmenting time into Day, Evening, and Outside Hours.
+- **Exploratory SQL** reports on volumes, seasonality, segmentation, and product ranking.
+
+---
+## ⚙️ How to Reproduce
+1. Set up the SQL Server database and schemas.
+2. Run Bronze scripts to load raw CSVs.
+3. Run Silver scripts to clean and standardize.
+4. Run Gold scripts to generate business-ready outputs.
+5. Validate results with enrichment scripts and tests.
