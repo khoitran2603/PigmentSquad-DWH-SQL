@@ -62,15 +62,16 @@ PigmentSquad-DWH-SQL/
 │   ├── data_models.png                 # Shows the data models (fact table only)
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
-│   ├── bronze/                         # Scripts for extracting and loading raw data
-│   ├── silver/                         # Scripts for cleaning and transforming data
-│   ├── gold/                           # Scripts for creating analytical models
+|   ├── data warehouse/
+│       ├── bronze/                     # Scripts for extracting and loading raw data
+│       ├── silver/                     # Scripts for cleaning and transforming data
+│       ├── gold/                       # Scripts for creating analytical models
+|   ├── data enrichment/
 │
 ├── tests/                              # Test scripts and quality files
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
-├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
+└── .gitignore                          # Files and directories to be ignored by Git
 ```
 ---
