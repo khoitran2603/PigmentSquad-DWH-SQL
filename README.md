@@ -39,15 +39,15 @@ Develop a SQL Server–based data warehouse to consolidate POS sales transaction
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
+### BI: Analytics & Reporting (Exploratory Analysis)
 
 #### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
+Develop SQL-based exploratory analysis on curated sales data (before enrichment) to uncover patterns in:
+- **Transaction Volumes** (by day, time, and weekday)
+- **Preliminary Sales Trends** (monthly and weekly variations)
+- **Refund Detection** (customer change-of-mind events)
 
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+These exploratory insights provided stakeholders with an early understanding of sales dynamics and data quality, forming the basis for informed decision-making.  
 
 ## 📂 Repository Structure
 ```
