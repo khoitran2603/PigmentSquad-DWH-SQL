@@ -1,4 +1,4 @@
-Retail Data Warehouse & Analytics Project
+# Retail Data Warehouse & Analytics Project
 
 Welcome to the **PigmentSquad Data Warehouse & Analytics** repository! 🚀  
 This project showcases the end-to-end process of building a modern SQL Server data warehouse and applying analytics to retail POS sales. It demonstrates best practices in data engineering and exploratory analysis, designed as a portfolio project to highlight skills in ETL, data modelling, and insight generation.
