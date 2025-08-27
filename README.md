@@ -35,7 +35,7 @@ Develop a SQL Server–based data warehouse to consolidate POS sales transaction
 - **Data Quality**: Clean and standardize product names, categorize items consistently, and detect/refine refund transactions before reporting.
 - **Integration**: Combine all exports into a unified fact-centric model, enriched with time and store-hour attributes to support analytical queries.
 - **Scope**: Focus on transactions from Jan 2025 onwards; no historization of prior years is required.
-- **Documentation**: Provide clear SQL scripts, schema definitions, and Power BI dashboards to support both business stakeholders and analytics users.
+- **Documentation**: Provide clear SQL scripts, schema definitions, and data enrichment to support both business stakeholders and analytics users.
 
 ---
 
